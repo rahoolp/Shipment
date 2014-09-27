@@ -1,0 +1,1623 @@
+[debug] execute contextualize
+[debug] execute contextualize
+Jul 14, 2014 1:58:00 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/greenhouse/src/test/java/com/springsource/greenhouse/events/load/JdbcEventLoaderRepositoryTest-context.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+<https://api.github.com/organizations/4161866/repos?page=2>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last"
+<https://api.github.com/organizations/4161866/repos?page=3>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last", <https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=1>; rel="prev"
+<https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=2>; rel="prev"
+Downloading https://github.com/spring-guides/tut-web/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/TutorialGuide/tut-web
+Downloading https://github.com/spring-projects/spring-mvc-showcase/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/ReferenceApp/spring-mvc-showcase
+Downloading https://github.com/spring-projects/spring-petclinic/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/ReferenceApp/spring-petclinic
+18:03:23.806 [Connection worker] DEBUG o.g.t.i.provider.DefaultConnection - Tooling API provider 1.6 created.
+18:03:23.996 [Connection worker] DEBUG o.g.t.i.provider.ProviderConnection - Configuring logging to level: INFO
+Tooling API uses target gradle version: 1.6.
+Starting Gradle daemon
+Starting daemon process: workingDir = /Users/ra61859/.gradle/daemon/1.6, daemonArgs: [/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=MacRoman, -cp, /Users/ra61859/.gradle/wrapper/dists/gradle-1.6-bin/72srdo3a5eb3bic159kar72vok/gradle-1.6/lib/gradle-launcher-1.6.jar, org.gradle.launcher.daemon.bootstrap.GradleDaemon, 1.6, /Users/ra61859/.gradle/daemon, 10800000, 5d932682-f35f-4f56-a397-bf11ddc9e2d1, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=MacRoman]
+Starting process 'Gradle build daemon'. Working directory: /Users/ra61859/.gradle/daemon/1.6 Command: /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=MacRoman -cp /Users/ra61859/.gradle/wrapper/dists/gradle-1.6-bin/72srdo3a5eb3bic159kar72vok/gradle-1.6/lib/gradle-launcher-1.6.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 1.6 /Users/ra61859/.gradle/daemon 10800000 5d932682-f35f-4f56-a397-bf11ddc9e2d1 -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=MacRoman
+An attempt to initialize for well behaving parent process finished.
+Successfully started process 'Gradle build daemon'
+Process 'Gradle build daemon' finished with exit value 0 (state: DETACHED)
+An attempt to start the daemon took 1.044 secs.
+Connected to the daemon. Dispatching Build{id=1b537879-b03c-485b-bb23-0fce10b3357e.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+The ConfigurationContainer.add() method has been deprecated and is scheduled to be removed in Gradle 2.0. Please use the create() method instead.
+The TaskContainer.add() method has been deprecated and is scheduled to be removed in Gradle 2.0. Please use the create() method instead.
+PROJECT=tut-web-6-complete
+
+BUILD SUCCESSFUL
+
+Total time: 17.726 secs
+Tooling API uses target gradle version: 1.6.
+Connected to the daemon. Dispatching Build{id=cc15cdf8-52b5-479d-a392-f17a4d1e9c50.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+The ConfigurationContainer.add() method has been deprecated and is scheduled to be removed in Gradle 2.0. Please use the create() method instead.
+The TaskContainer.add() method has been deprecated and is scheduled to be removed in Gradle 2.0. Please use the create() method instead.
+PROJECT=tut-web-6-complete
+Download http://repo1.maven.org/maven2/org/hibernate/hibernate-validator/5.0.1.Final/hibernate-validator-5.0.1.Final.pom
+Download http://repo1.maven.org/maven2/org/hibernate/hibernate-validator-parent/5.0.1.Final/hibernate-validator-parent-5.0.1.Final.pom
+Download http://repo1.maven.org/maven2/org/thymeleaf/thymeleaf-spring3/2.0.18/thymeleaf-spring3-2.0.18.pom
+Download http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.pom
+Download http://repo1.maven.org/maven2/com/fasterxml/classmate/0.8.0/classmate-0.8.0.pom
+Download http://repo1.maven.org/maven2/org/thymeleaf/thymeleaf/2.0.18/thymeleaf-2.0.18.pom
+Download http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom
+Download http://repo1.maven.org/maven2/ognl/ognl/3.0.6/ognl-3.0.6-sources.jar
+Download http://repo1.maven.org/maven2/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA-sources.jar
+Download http://repo1.maven.org/maven2/org/hibernate/hibernate-validator/5.0.1.Final/hibernate-validator-5.0.1.Final-sources.jar
+Download http://repo1.maven.org/maven2/org/thymeleaf/thymeleaf/2.0.18/thymeleaf-2.0.18-sources.jar
+Download http://repo1.maven.org/maven2/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar
+Download http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA-sources.jar
+Download http://repo1.maven.org/maven2/org/objenesis/objenesis/1.0/objenesis-1.0-sources.jar
+Download http://repo1.maven.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar
+Download http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5-sources.jar
+Download http://repo1.maven.org/maven2/com/fasterxml/classmate/0.8.0/classmate-0.8.0-sources.jar
+Download http://repo1.maven.org/maven2/org/hamcrest/hamcrest-library/1.3/hamcrest-library-1.3-sources.jar
+Download http://repo1.maven.org/maven2/org/thymeleaf/thymeleaf-spring3/2.0.18/thymeleaf-spring3-2.0.18-sources.jar
+Download http://repo1.maven.org/maven2/org/mockito/mockito-core/1.9.5/mockito-core-1.9.5-sources.jar
+Download http://repo1.maven.org/maven2/org/hibernate/hibernate-validator/5.0.1.Final/hibernate-validator-5.0.1.Final.jar
+Download http://repo1.maven.org/maven2/org/thymeleaf/thymeleaf-spring3/2.0.18/thymeleaf-spring3-2.0.18.jar
+Download http://repo1.maven.org/maven2/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar
+Download http://repo1.maven.org/maven2/com/fasterxml/classmate/0.8.0/classmate-0.8.0.jar
+Download http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar
+Download http://repo1.maven.org/maven2/org/thymeleaf/thymeleaf/2.0.18/thymeleaf-2.0.18.jar
+
+BUILD SUCCESSFUL
+
+Total time: 22.354 secs
+Tooling API uses target gradle version: 1.6.
+Connected to the daemon. Dispatching Build{id=c48509f7-0a61-4e26-8bd3-55d5174664bb.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+The ConfigurationContainer.add() method has been deprecated and is scheduled to be removed in Gradle 2.0. Please use the create() method instead.
+The TaskContainer.add() method has been deprecated and is scheduled to be removed in Gradle 2.0. Please use the create() method instead.
+PROJECT=tut-web-6-complete
+:cleanEclipseClasspath UP-TO-DATE
+:cleanEclipseJdt UP-TO-DATE
+:cleanEclipseProject UP-TO-DATE
+:cleanEclipseWtpComponent UP-TO-DATE
+:cleanEclipseWtpFacet UP-TO-DATE
+:cleanEclipseWtp UP-TO-DATE
+:cleanEclipse UP-TO-DATE
+:eclipseClasspath
+:eclipseJdt
+:eclipseProject
+:eclipseWtpComponent
+:eclipseWtpFacet
+:eclipseWtp
+:eclipse
+
+BUILD SUCCESSFUL
+
+Total time: 2.734 secs
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Jul 16, 2014 12:31:32 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: I/O exception (java.net.SocketException) caught when processing request: Connection reset
+Jul 16, 2014 12:31:32 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: Retrying request
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Jul 18, 2014 1:41:03 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 18, 2014 1:46:03 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 18, 2014 1:51:04 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 18, 2014 1:56:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 18, 2014 2:01:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 18, 2014 2:06:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 18, 2014 2:11:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 18, 2014 2:16:10 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+/Applications/mongodb/bin/mongod --help for help and startup options
+2014-07-19T15:44:45.162-0700 [initandlisten] MongoDB starting : pid=10412 port=27017 dbpath=/data/db 64-bit host=L-SFF2XSDRVG-M
+2014-07-19T15:44:45.162-0700 [initandlisten] 
+2014-07-19T15:44:45.162-0700 [initandlisten] ** WARNING: soft rlimits too low. Number of files is 256, should be at least 1000
+2014-07-19T15:44:45.162-0700 [initandlisten] db version v2.6.3
+2014-07-19T15:44:45.163-0700 [initandlisten] git version: 255f67a66f9603c59380b2a389e386910bbb52cb
+2014-07-19T15:44:45.163-0700 [initandlisten] build info: Darwin mci-osx108-3.build.10gen.cc 12.3.0 Darwin Kernel Version 12.3.0: Sun Jan  6 22:37:10 PST 2013; root:xnu-2050.22.13~1/RELEASE_X86_64 x86_64 BOOST_LIB_VERSION=1_49
+2014-07-19T15:44:45.163-0700 [initandlisten] allocator: system
+2014-07-19T15:44:45.163-0700 [initandlisten] options: {}
+2014-07-19T15:44:45.164-0700 [initandlisten] journal dir=/data/db/journal
+2014-07-19T15:44:45.164-0700 [initandlisten] recover begin
+2014-07-19T15:44:45.164-0700 [initandlisten] recover lsn: 33777051
+2014-07-19T15:44:45.164-0700 [initandlisten] recover /data/db/journal/j._0
+2014-07-19T15:44:45.165-0700 [initandlisten] recover skipping application of section seq:0 < lsn:33777051
+2014-07-19T15:44:45.167-0700 [initandlisten] recover cleaning up
+2014-07-19T15:44:45.167-0700 [initandlisten] removeJournalFiles
+2014-07-19T15:44:45.167-0700 [initandlisten] recover done
+2014-07-19T15:44:45.202-0700 [initandlisten] waiting for connections on port 27017
+2014-07-19T15:44:56.048-0700 [initandlisten] connection accepted from 127.0.0.1:64152 #1 (1 connection now open)
+2014-07-19T15:44:56.159-0700 [initandlisten] connection accepted from 127.0.0.1:64153 #2 (2 connections now open)
+2014-07-19T15:44:56.204-0700 [initandlisten] connection accepted from 127.0.0.1:64154 #3 (3 connections now open)
+2014-07-19T15:45:24.681-0700 [initandlisten] connection accepted from 127.0.0.1:64163 #4 (4 connections now open)
+2014-07-19T15:45:45.212-0700 [clientcursormon] mem (MB) res:35 virt:2815
+2014-07-19T15:45:45.212-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T15:45:45.212-0700 [clientcursormon]  connections:4
+2014-07-19T15:46:46.302-0700 [conn2] end connection 127.0.0.1:64153 (3 connections now open)
+2014-07-19T15:46:46.302-0700 [conn3] end connection 127.0.0.1:64154 (3 connections now open)
+2014-07-19T15:46:46.302-0700 [conn4] end connection 127.0.0.1:64163 (3 connections now open)
+2014-07-19T15:46:46.302-0700 [conn1] end connection 127.0.0.1:64152 (3 connections now open)
+2014-07-19T15:47:12.497-0700 [initandlisten] connection accepted from 127.0.0.1:64206 #5 (1 connection now open)
+2014-07-19T15:47:12.618-0700 [initandlisten] connection accepted from 127.0.0.1:64207 #6 (2 connections now open)
+2014-07-19T15:47:12.657-0700 [initandlisten] connection accepted from 127.0.0.1:64208 #7 (3 connections now open)
+2014-07-19T15:47:23.149-0700 [initandlisten] connection accepted from 127.0.0.1:64209 #8 (4 connections now open)
+2014-07-19T15:48:27.046-0700 [conn8] end connection 127.0.0.1:64209 (3 connections now open)
+2014-07-19T15:48:27.047-0700 [conn7] end connection 127.0.0.1:64208 (3 connections now open)
+2014-07-19T15:48:27.047-0700 [conn6] end connection 127.0.0.1:64207 (1 connection now open)
+2014-07-19T15:48:27.047-0700 [conn5] end connection 127.0.0.1:64206 (0 connections now open)
+2014-07-19T15:50:45.275-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T15:50:45.275-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T15:50:45.275-0700 [clientcursormon]  connections:0
+2014-07-19T15:50:56.092-0700 [initandlisten] connection accepted from 127.0.0.1:64275 #9 (1 connection now open)
+2014-07-19T15:50:56.227-0700 [initandlisten] connection accepted from 127.0.0.1:64276 #10 (2 connections now open)
+2014-07-19T15:50:56.262-0700 [initandlisten] connection accepted from 127.0.0.1:64277 #11 (3 connections now open)
+2014-07-19T15:51:02.583-0700 [initandlisten] connection accepted from 127.0.0.1:64278 #12 (4 connections now open)
+2014-07-19T15:53:24.794-0700 [conn12] end connection 127.0.0.1:64278 (3 connections now open)
+2014-07-19T15:53:24.794-0700 [conn11] end connection 127.0.0.1:64277 (2 connections now open)
+2014-07-19T15:53:24.794-0700 [conn10] end connection 127.0.0.1:64276 (1 connection now open)
+2014-07-19T15:53:24.794-0700 [conn9] end connection 127.0.0.1:64275 (1 connection now open)
+2014-07-19T15:54:22.108-0700 [initandlisten] connection accepted from 127.0.0.1:64334 #13 (1 connection now open)
+2014-07-19T15:54:22.230-0700 [initandlisten] connection accepted from 127.0.0.1:64335 #14 (2 connections now open)
+2014-07-19T15:54:22.280-0700 [initandlisten] connection accepted from 127.0.0.1:64336 #15 (3 connections now open)
+2014-07-19T15:54:27.076-0700 [initandlisten] connection accepted from 127.0.0.1:64337 #16 (4 connections now open)
+2014-07-19T15:54:33.125-0700 [conn16] end connection 127.0.0.1:64337 (3 connections now open)
+2014-07-19T15:54:33.125-0700 [conn15] end connection 127.0.0.1:64336 (3 connections now open)
+2014-07-19T15:54:33.125-0700 [conn14] end connection 127.0.0.1:64335 (3 connections now open)
+2014-07-19T15:54:33.125-0700 [conn13] end connection 127.0.0.1:64334 (2 connections now open)
+2014-07-19T15:55:39.467-0700 [initandlisten] connection accepted from 127.0.0.1:64357 #17 (1 connection now open)
+2014-07-19T15:55:39.587-0700 [initandlisten] connection accepted from 127.0.0.1:64358 #18 (2 connections now open)
+2014-07-19T15:55:39.623-0700 [initandlisten] connection accepted from 127.0.0.1:64359 #19 (3 connections now open)
+2014-07-19T15:55:42.854-0700 [initandlisten] connection accepted from 127.0.0.1:64360 #20 (4 connections now open)
+2014-07-19T15:55:45.340-0700 [clientcursormon] mem (MB) res:35 virt:2815
+2014-07-19T15:55:45.340-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T15:55:45.340-0700 [clientcursormon]  connections:4
+2014-07-19T15:56:23.972-0700 [conn20] end connection 127.0.0.1:64360 (3 connections now open)
+2014-07-19T15:56:23.973-0700 [conn17] end connection 127.0.0.1:64357 (2 connections now open)
+2014-07-19T15:56:23.973-0700 [conn19] end connection 127.0.0.1:64359 (1 connection now open)
+2014-07-19T15:56:23.974-0700 [conn18] end connection 127.0.0.1:64358 (0 connections now open)
+2014-07-19T16:00:45.403-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T16:00:45.403-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T16:00:45.403-0700 [clientcursormon]  connections:0
+2014-07-19T16:05:58.450-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T16:05:58.450-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T16:05:58.450-0700 [clientcursormon]  connections:0
+2014-07-19T17:02:10.994-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T17:02:10.994-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T17:02:10.994-0700 [clientcursormon]  connections:0
+2014-07-19T18:08:01.972-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:08:01.972-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:08:01.972-0700 [clientcursormon]  connections:0
+2014-07-19T18:13:02.039-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:13:02.039-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:13:02.039-0700 [clientcursormon]  connections:0
+2014-07-19T18:30:56.967-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:30:56.967-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:30:56.967-0700 [clientcursormon]  connections:0
+2014-07-19T18:35:57.030-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:35:57.030-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:35:57.030-0700 [clientcursormon]  connections:0
+2014-07-19T18:40:57.098-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:40:57.098-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:40:57.098-0700 [clientcursormon]  connections:0
+2014-07-19T18:45:57.165-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:45:57.165-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:45:57.165-0700 [clientcursormon]  connections:0
+2014-07-19T18:50:57.233-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:50:57.233-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:50:57.233-0700 [clientcursormon]  connections:0
+2014-07-19T18:55:57.300-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T18:55:57.300-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T18:55:57.300-0700 [clientcursormon]  connections:0
+2014-07-19T19:00:57.367-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T19:00:57.367-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T19:00:57.367-0700 [clientcursormon]  connections:0
+2014-07-19T19:05:57.432-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T19:05:57.432-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T19:05:57.432-0700 [clientcursormon]  connections:0
+2014-07-19T21:10:51.983-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T21:10:51.983-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T21:10:51.983-0700 [clientcursormon]  connections:0
+2014-07-19T23:23:26.965-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-19T23:23:26.965-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T23:23:26.965-0700 [clientcursormon]  connections:0
+2014-07-20T23:00:24.979-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-20T23:00:24.979-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-20T23:00:24.979-0700 [clientcursormon]  connections:0
+2014-07-20T23:05:25.034-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-20T23:05:25.034-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-20T23:05:25.034-0700 [clientcursormon]  connections:0
+2014-07-20T23:10:25.094-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-20T23:10:25.094-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-20T23:10:25.094-0700 [clientcursormon]  connections:0
+2014-07-20T23:15:25.150-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-20T23:15:25.150-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-20T23:15:25.150-0700 [clientcursormon]  connections:0
+2014-07-21T09:23:45.982-0700 [clientcursormon] mem (MB) res:35 virt:2813
+2014-07-21T09:23:45.982-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T09:23:45.982-0700 [clientcursormon]  connections:0
+2014-07-21T09:40:05.845-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T09:40:05.846-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T09:40:05.846-0700 [clientcursormon]  connections:0
+2014-07-21T09:45:05.903-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T09:45:05.903-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T09:45:05.903-0700 [clientcursormon]  connections:0
+2014-07-21T09:50:05.961-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T09:50:05.961-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T09:50:05.961-0700 [clientcursormon]  connections:0
+2014-07-21T09:55:06.020-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T09:55:06.020-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T09:55:06.020-0700 [clientcursormon]  connections:0
+2014-07-21T10:00:06.082-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T10:00:06.082-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T10:00:06.082-0700 [clientcursormon]  connections:0
+2014-07-21T10:05:06.140-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T10:05:06.140-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T10:05:06.140-0700 [clientcursormon]  connections:0
+2014-07-21T11:24:09.990-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:24:09.990-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:24:09.990-0700 [clientcursormon]  connections:0
+2014-07-21T11:29:10.048-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:29:10.048-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:29:10.048-0700 [clientcursormon]  connections:0
+2014-07-21T11:34:10.105-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:34:10.106-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:34:10.106-0700 [clientcursormon]  connections:0
+2014-07-21T11:39:10.161-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:39:10.161-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:39:10.161-0700 [clientcursormon]  connections:0
+2014-07-21T11:44:10.221-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:44:10.221-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:44:10.221-0700 [clientcursormon]  connections:0
+2014-07-21T11:49:10.284-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:49:10.284-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:49:10.284-0700 [clientcursormon]  connections:0
+2014-07-21T11:54:10.343-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:54:10.343-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:54:10.343-0700 [clientcursormon]  connections:0
+2014-07-21T11:59:10.403-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T11:59:10.403-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T11:59:10.403-0700 [clientcursormon]  connections:0
+2014-07-21T12:04:10.464-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T12:04:10.465-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:04:10.465-0700 [clientcursormon]  connections:0
+2014-07-21T12:09:10.528-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T12:09:10.528-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:09:10.528-0700 [clientcursormon]  connections:0
+2014-07-21T12:14:10.589-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T12:14:10.589-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:14:10.590-0700 [clientcursormon]  connections:0
+2014-07-21T12:19:10.652-0700 [clientcursormon] mem (MB) res:32 virt:2813
+2014-07-21T12:19:10.652-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:19:10.652-0700 [clientcursormon]  connections:0
+2014-07-21T12:24:10.706-0700 [clientcursormon] mem (MB) res:20 virt:2813
+2014-07-21T12:24:10.707-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:24:10.707-0700 [clientcursormon]  connections:0
+2014-07-21T12:29:10.764-0700 [clientcursormon] mem (MB) res:13 virt:2813
+2014-07-21T12:29:10.765-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:29:10.766-0700 [clientcursormon]  connections:0
+2014-07-21T12:34:10.828-0700 [clientcursormon] mem (MB) res:13 virt:2813
+2014-07-21T12:34:10.831-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:34:10.831-0700 [clientcursormon]  connections:0
+2014-07-21T12:39:10.887-0700 [clientcursormon] mem (MB) res:13 virt:2813
+2014-07-21T12:39:10.890-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:39:10.890-0700 [clientcursormon]  connections:0
+2014-07-21T12:44:10.950-0700 [clientcursormon] mem (MB) res:13 virt:2813
+2014-07-21T12:44:10.951-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:44:10.951-0700 [clientcursormon]  connections:0
+2014-07-21T12:49:11.007-0700 [clientcursormon] mem (MB) res:13 virt:2813
+2014-07-21T12:49:11.008-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:49:11.008-0700 [clientcursormon]  connections:0
+2014-07-21T12:54:11.066-0700 [clientcursormon] mem (MB) res:13 virt:2813
+2014-07-21T12:54:11.067-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:54:11.068-0700 [clientcursormon]  connections:0
+2014-07-21T12:59:11.122-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T12:59:11.122-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T12:59:11.122-0700 [clientcursormon]  connections:0
+2014-07-21T13:04:11.179-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:04:11.179-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:04:11.179-0700 [clientcursormon]  connections:0
+2014-07-21T13:09:11.236-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:09:11.236-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:09:11.237-0700 [clientcursormon]  connections:0
+2014-07-21T13:14:11.287-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:14:11.287-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:14:11.287-0700 [clientcursormon]  connections:0
+2014-07-21T13:19:11.343-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:19:11.343-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:19:11.343-0700 [clientcursormon]  connections:0
+2014-07-21T13:24:11.398-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:24:11.401-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:24:11.401-0700 [clientcursormon]  connections:0
+2014-07-21T13:29:11.452-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:29:11.453-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:29:11.454-0700 [clientcursormon]  connections:0
+2014-07-21T13:34:11.509-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:34:11.511-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:34:11.511-0700 [clientcursormon]  connections:0
+2014-07-21T13:39:11.566-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:39:11.568-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:39:11.568-0700 [clientcursormon]  connections:0
+2014-07-21T13:44:11.622-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:44:11.624-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:44:11.624-0700 [clientcursormon]  connections:0
+2014-07-21T13:49:11.673-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:49:11.675-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:49:11.676-0700 [clientcursormon]  connections:0
+2014-07-21T13:54:11.730-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:54:11.730-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:54:11.730-0700 [clientcursormon]  connections:0
+2014-07-21T13:59:11.785-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T13:59:11.787-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T13:59:11.787-0700 [clientcursormon]  connections:0
+2014-07-21T14:04:11.841-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T14:04:11.842-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:04:11.842-0700 [clientcursormon]  connections:0
+2014-07-21T14:09:11.897-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T14:09:11.899-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:09:11.899-0700 [clientcursormon]  connections:0
+2014-07-21T14:14:11.954-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-21T14:14:11.955-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:14:11.955-0700 [clientcursormon]  connections:0
+2014-07-21T14:19:12.011-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:19:12.013-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:19:12.013-0700 [clientcursormon]  connections:0
+2014-07-21T14:24:12.067-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:24:12.067-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:24:12.067-0700 [clientcursormon]  connections:0
+2014-07-21T14:29:12.120-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:29:12.120-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:29:12.121-0700 [clientcursormon]  connections:0
+2014-07-21T14:34:12.180-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:34:12.180-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:34:12.180-0700 [clientcursormon]  connections:0
+2014-07-21T14:39:12.238-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:39:12.238-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:39:12.238-0700 [clientcursormon]  connections:0
+2014-07-21T14:44:12.290-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:44:12.292-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:44:12.292-0700 [clientcursormon]  connections:0
+2014-07-21T14:49:12.344-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:49:12.344-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:49:12.344-0700 [clientcursormon]  connections:0
+2014-07-21T14:54:12.397-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:54:12.397-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:54:12.397-0700 [clientcursormon]  connections:0
+2014-07-21T14:59:12.452-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T14:59:12.452-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T14:59:12.453-0700 [clientcursormon]  connections:0
+2014-07-21T15:04:12.506-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T15:04:12.506-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:04:12.506-0700 [clientcursormon]  connections:0
+2014-07-21T15:09:12.562-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T15:09:12.563-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:09:12.564-0700 [clientcursormon]  connections:0
+2014-07-21T15:14:12.615-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T15:14:12.615-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:14:12.615-0700 [clientcursormon]  connections:0
+2014-07-21T15:19:12.671-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T15:19:12.671-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:19:12.671-0700 [clientcursormon]  connections:0
+2014-07-21T15:24:12.729-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T15:24:12.730-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:24:12.730-0700 [clientcursormon]  connections:0
+2014-07-21T15:29:12.790-0700 [clientcursormon] mem (MB) res:9 virt:2813
+2014-07-21T15:29:12.791-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:29:12.791-0700 [clientcursormon]  connections:0
+2014-07-21T15:34:12.844-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T15:34:12.845-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:34:12.846-0700 [clientcursormon]  connections:0
+2014-07-21T15:39:12.904-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T15:39:12.904-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:39:12.904-0700 [clientcursormon]  connections:0
+2014-07-21T15:44:12.961-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T15:44:12.961-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:44:12.961-0700 [clientcursormon]  connections:0
+2014-07-21T15:49:13.014-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T15:49:13.016-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:49:13.017-0700 [clientcursormon]  connections:0
+2014-07-21T15:54:13.069-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T15:54:13.071-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:54:13.071-0700 [clientcursormon]  connections:0
+2014-07-21T15:59:13.128-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T15:59:13.130-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T15:59:13.130-0700 [clientcursormon]  connections:0
+2014-07-21T16:04:13.184-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T16:04:13.186-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:04:13.186-0700 [clientcursormon]  connections:0
+2014-07-21T16:09:13.240-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T16:09:13.242-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:09:13.242-0700 [clientcursormon]  connections:0
+2014-07-21T16:14:13.303-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T16:14:13.303-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:14:13.303-0700 [clientcursormon]  connections:0
+2014-07-21T16:19:13.360-0700 [clientcursormon] mem (MB) res:8 virt:2813
+2014-07-21T16:19:13.360-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:19:13.360-0700 [clientcursormon]  connections:0
+2014-07-21T16:24:13.413-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:24:13.414-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:24:13.414-0700 [clientcursormon]  connections:0
+2014-07-21T16:29:13.469-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:29:13.471-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:29:13.471-0700 [clientcursormon]  connections:0
+2014-07-21T16:34:13.528-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:34:13.530-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:34:13.530-0700 [clientcursormon]  connections:0
+2014-07-21T16:39:13.584-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:39:13.584-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:39:13.584-0700 [clientcursormon]  connections:0
+2014-07-21T16:44:13.639-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:44:13.640-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:44:13.640-0700 [clientcursormon]  connections:0
+2014-07-21T16:49:13.695-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:49:13.697-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:49:13.697-0700 [clientcursormon]  connections:0
+2014-07-21T16:54:13.751-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:54:13.751-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:54:13.752-0700 [clientcursormon]  connections:0
+2014-07-21T16:59:13.810-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T16:59:13.810-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T16:59:13.810-0700 [clientcursormon]  connections:0
+2014-07-21T17:04:13.866-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T17:04:13.866-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T17:04:13.866-0700 [clientcursormon]  connections:0
+2014-07-21T17:09:13.919-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T17:09:13.921-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T17:09:13.921-0700 [clientcursormon]  connections:0
+2014-07-21T17:14:13.976-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T17:14:13.976-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T17:14:13.976-0700 [clientcursormon]  connections:0
+2014-07-21T17:19:14.035-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T17:19:14.035-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T17:19:14.035-0700 [clientcursormon]  connections:0
+2014-07-21T17:24:14.090-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T17:24:14.092-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T17:24:14.092-0700 [clientcursormon]  connections:0
+2014-07-21T18:40:25.945-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T18:40:25.946-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T18:40:25.946-0700 [clientcursormon]  connections:0
+2014-07-21T19:04:40.977-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T19:04:40.977-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T19:04:40.977-0700 [clientcursormon]  connections:0
+2014-07-21T19:09:41.031-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T19:09:41.032-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T19:09:41.032-0700 [clientcursormon]  connections:0
+2014-07-21T19:14:41.085-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T19:14:41.087-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T19:14:41.087-0700 [clientcursormon]  connections:0
+2014-07-21T19:19:41.144-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T19:19:41.145-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T19:19:41.146-0700 [clientcursormon]  connections:0
+2014-07-21T19:24:41.206-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T19:24:41.207-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T19:24:41.207-0700 [clientcursormon]  connections:0
+2014-07-21T19:29:41.262-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T19:29:41.262-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T19:29:41.262-0700 [clientcursormon]  connections:0
+2014-07-21T19:34:41.315-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T19:34:41.317-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T19:34:41.317-0700 [clientcursormon]  connections:0
+2014-07-21T20:49:21.986-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T20:49:21.986-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T20:49:21.986-0700 [clientcursormon]  connections:0
+2014-07-21T20:54:22.044-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T20:54:22.044-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T20:54:22.044-0700 [clientcursormon]  connections:0
+2014-07-21T20:59:22.099-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T20:59:22.099-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T20:59:22.099-0700 [clientcursormon]  connections:0
+2014-07-21T21:04:22.156-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-21T21:04:22.156-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T21:04:22.156-0700 [clientcursormon]  connections:0
+2014-07-21T23:17:31.839-0700 [PeriodicTaskRunner] task: WriteBackManager::cleaner took: 4ms
+2014-07-21T23:17:34.948-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-21T23:17:34.948-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-21T23:17:34.948-0700 [clientcursormon]  connections:0
+2014-07-22T09:35:03.493-0700 [clientcursormon] mem (MB) res:0 virt:2813
+2014-07-22T09:35:03.549-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T09:35:03.549-0700 [clientcursormon]  connections:0
+2014-07-22T09:40:03.623-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T09:40:03.624-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T09:40:03.625-0700 [clientcursormon]  connections:0
+2014-07-22T09:45:03.675-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T09:45:03.675-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T09:45:03.675-0700 [clientcursormon]  connections:0
+2014-07-22T09:50:03.727-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T09:50:03.728-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T09:50:03.728-0700 [clientcursormon]  connections:0
+2014-07-22T09:55:03.778-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T09:55:03.780-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T09:55:03.780-0700 [clientcursormon]  connections:0
+2014-07-22T10:00:03.837-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:00:03.837-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:00:03.837-0700 [clientcursormon]  connections:0
+2014-07-22T10:05:03.892-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:05:03.892-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:05:03.892-0700 [clientcursormon]  connections:0
+2014-07-22T10:10:03.947-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:10:03.949-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:10:03.949-0700 [clientcursormon]  connections:0
+2014-07-22T10:15:04.003-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:15:04.004-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:15:04.004-0700 [clientcursormon]  connections:0
+2014-07-22T10:20:04.059-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:20:04.059-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:20:04.059-0700 [clientcursormon]  connections:0
+2014-07-22T10:25:04.110-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:25:04.110-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:25:04.110-0700 [clientcursormon]  connections:0
+2014-07-22T10:30:04.942-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:30:04.942-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:30:04.942-0700 [clientcursormon]  connections:0
+2014-07-22T10:35:04.999-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:35:04.999-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:35:04.999-0700 [clientcursormon]  connections:0
+2014-07-22T10:40:05.052-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:40:05.052-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:40:05.052-0700 [clientcursormon]  connections:0
+2014-07-22T10:45:05.107-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:45:05.107-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:45:05.108-0700 [clientcursormon]  connections:0
+2014-07-22T10:50:05.159-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:50:05.160-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:50:05.160-0700 [clientcursormon]  connections:0
+2014-07-22T10:55:05.214-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T10:55:05.215-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T10:55:05.215-0700 [clientcursormon]  connections:0
+2014-07-22T11:00:05.272-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:00:05.272-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:00:05.272-0700 [clientcursormon]  connections:0
+2014-07-22T11:05:05.328-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:05:05.328-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:05:05.328-0700 [clientcursormon]  connections:0
+2014-07-22T11:10:05.391-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:10:05.392-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:10:05.393-0700 [clientcursormon]  connections:0
+2014-07-22T11:15:05.447-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:15:05.448-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:15:05.448-0700 [clientcursormon]  connections:0
+2014-07-22T11:20:05.506-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:20:05.508-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:20:05.508-0700 [clientcursormon]  connections:0
+2014-07-22T11:25:05.562-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:25:05.564-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:25:05.564-0700 [clientcursormon]  connections:0
+2014-07-22T11:30:05.619-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:30:05.621-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:30:05.621-0700 [clientcursormon]  connections:0
+2014-07-22T11:35:05.676-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:35:05.676-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:35:05.676-0700 [clientcursormon]  connections:0
+2014-07-22T11:40:05.733-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:40:05.735-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:40:05.735-0700 [clientcursormon]  connections:0
+2014-07-22T11:45:05.790-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:45:05.790-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:45:05.790-0700 [clientcursormon]  connections:0
+2014-07-22T11:50:05.846-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:50:05.846-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:50:05.846-0700 [clientcursormon]  connections:0
+2014-07-22T11:55:05.898-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T11:55:05.898-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T11:55:05.898-0700 [clientcursormon]  connections:0
+2014-07-22T12:00:05.955-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:00:05.955-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:00:05.955-0700 [clientcursormon]  connections:0
+2014-07-22T12:05:06.012-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:05:06.012-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:05:06.012-0700 [clientcursormon]  connections:0
+2014-07-22T12:10:06.068-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:10:06.068-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:10:06.068-0700 [clientcursormon]  connections:0
+2014-07-22T12:15:06.120-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:15:06.120-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:15:06.120-0700 [clientcursormon]  connections:0
+2014-07-22T12:20:06.176-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:20:06.176-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:20:06.176-0700 [clientcursormon]  connections:0
+2014-07-22T12:25:06.238-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:25:06.238-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:25:06.238-0700 [clientcursormon]  connections:0
+2014-07-22T12:30:06.291-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:30:06.293-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:30:06.293-0700 [clientcursormon]  connections:0
+2014-07-22T12:35:06.351-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:35:06.351-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:35:06.351-0700 [clientcursormon]  connections:0
+2014-07-22T12:40:06.407-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:40:06.407-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:40:06.407-0700 [clientcursormon]  connections:0
+2014-07-22T12:45:06.459-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:45:06.459-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:45:06.459-0700 [clientcursormon]  connections:0
+2014-07-22T12:50:06.514-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:50:06.514-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:50:06.514-0700 [clientcursormon]  connections:0
+2014-07-22T12:55:06.572-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T12:55:06.572-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T12:55:06.572-0700 [clientcursormon]  connections:0
+2014-07-22T13:00:06.627-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:00:06.627-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:00:06.627-0700 [clientcursormon]  connections:0
+2014-07-22T13:05:06.684-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:05:06.684-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:05:06.684-0700 [clientcursormon]  connections:0
+2014-07-22T13:10:06.740-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:10:06.740-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:10:06.740-0700 [clientcursormon]  connections:0
+2014-07-22T13:15:06.792-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:15:06.792-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:15:06.794-0700 [clientcursormon]  connections:0
+2014-07-22T13:20:06.842-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:20:06.842-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:20:06.842-0700 [clientcursormon]  connections:0
+2014-07-22T13:25:06.896-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:25:06.896-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:25:06.896-0700 [clientcursormon]  connections:0
+2014-07-22T13:30:06.948-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:30:06.950-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:30:06.950-0700 [clientcursormon]  connections:0
+2014-07-22T13:35:07.002-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:35:07.002-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:35:07.002-0700 [clientcursormon]  connections:0
+2014-07-22T13:40:07.055-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:40:07.055-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:40:07.055-0700 [clientcursormon]  connections:0
+2014-07-22T13:45:11.003-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:45:11.003-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:45:11.003-0700 [clientcursormon]  connections:0
+2014-07-22T13:50:11.059-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:50:11.059-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:50:11.059-0700 [clientcursormon]  connections:0
+2014-07-22T13:55:11.109-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T13:55:11.109-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T13:55:11.109-0700 [clientcursormon]  connections:0
+2014-07-22T14:00:11.159-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:00:11.159-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:00:11.159-0700 [clientcursormon]  connections:0
+2014-07-22T14:05:11.237-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:05:11.238-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:05:11.238-0700 [clientcursormon]  connections:0
+2014-07-22T14:10:11.290-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:10:11.290-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:10:11.291-0700 [clientcursormon]  connections:0
+2014-07-22T14:15:11.346-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:15:11.346-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:15:11.346-0700 [clientcursormon]  connections:0
+2014-07-22T14:20:11.396-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:20:11.396-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:20:11.396-0700 [clientcursormon]  connections:0
+2014-07-22T14:25:11.455-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:25:11.455-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:25:11.455-0700 [clientcursormon]  connections:0
+2014-07-22T14:30:11.506-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:30:11.506-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:30:11.506-0700 [clientcursormon]  connections:0
+2014-07-22T14:35:11.557-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:35:11.557-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:35:11.558-0700 [clientcursormon]  connections:0
+2014-07-22T14:40:11.617-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:40:11.617-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:40:11.617-0700 [clientcursormon]  connections:0
+2014-07-22T14:45:11.668-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:45:11.668-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:45:11.668-0700 [clientcursormon]  connections:0
+2014-07-22T14:50:11.722-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:50:11.723-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:50:11.723-0700 [clientcursormon]  connections:0
+2014-07-22T14:55:11.778-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T14:55:11.778-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T14:55:11.778-0700 [clientcursormon]  connections:0
+2014-07-22T15:00:11.825-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:00:11.825-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:00:11.825-0700 [clientcursormon]  connections:0
+2014-07-22T15:05:11.881-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:05:11.881-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:05:11.881-0700 [clientcursormon]  connections:0
+2014-07-22T15:10:11.932-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:10:11.932-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:10:11.932-0700 [clientcursormon]  connections:0
+2014-07-22T15:15:11.988-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:15:11.989-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:15:11.989-0700 [clientcursormon]  connections:0
+2014-07-22T15:20:12.041-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:20:12.041-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:20:12.041-0700 [clientcursormon]  connections:0
+2014-07-22T15:25:12.102-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:25:12.102-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:25:12.102-0700 [clientcursormon]  connections:0
+2014-07-22T15:30:12.159-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:30:12.161-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:30:12.161-0700 [clientcursormon]  connections:0
+2014-07-22T15:35:12.214-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:35:12.214-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:35:12.214-0700 [clientcursormon]  connections:0
+2014-07-22T15:40:12.268-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:40:12.268-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:40:12.268-0700 [clientcursormon]  connections:0
+2014-07-22T15:45:12.324-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:45:12.324-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:45:12.324-0700 [clientcursormon]  connections:0
+2014-07-22T15:50:12.378-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:50:12.378-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:50:12.378-0700 [clientcursormon]  connections:0
+2014-07-22T15:55:12.430-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T15:55:12.430-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T15:55:12.430-0700 [clientcursormon]  connections:0
+2014-07-22T16:00:12.480-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:00:12.480-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:00:12.480-0700 [clientcursormon]  connections:0
+2014-07-22T16:05:12.533-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:05:12.533-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:05:12.533-0700 [clientcursormon]  connections:0
+2014-07-22T16:10:12.587-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:10:12.587-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:10:12.587-0700 [clientcursormon]  connections:0
+2014-07-22T16:15:12.641-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:15:12.643-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:15:12.643-0700 [clientcursormon]  connections:0
+2014-07-22T16:20:12.715-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:20:12.717-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:20:12.717-0700 [clientcursormon]  connections:0
+2014-07-22T16:25:12.774-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:25:12.776-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:25:12.776-0700 [clientcursormon]  connections:0
+2014-07-22T16:30:12.829-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:30:12.829-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:30:12.829-0700 [clientcursormon]  connections:0
+2014-07-22T16:35:12.876-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:35:12.876-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:35:12.876-0700 [clientcursormon]  connections:0
+2014-07-22T16:40:12.929-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:40:12.929-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:40:12.929-0700 [clientcursormon]  connections:0
+2014-07-22T16:45:12.986-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:45:12.986-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:45:12.986-0700 [clientcursormon]  connections:0
+2014-07-22T16:50:13.038-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:50:13.038-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:50:13.038-0700 [clientcursormon]  connections:0
+2014-07-22T16:55:13.093-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T16:55:13.093-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T16:55:13.093-0700 [clientcursormon]  connections:0
+2014-07-22T17:00:13.146-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T17:00:13.146-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T17:00:13.146-0700 [clientcursormon]  connections:0
+2014-07-22T17:05:13.201-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-22T17:05:13.204-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-22T17:05:13.204-0700 [clientcursormon]  connections:0
+2014-07-23T09:22:44.008-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T09:22:44.008-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T09:22:44.008-0700 [clientcursormon]  connections:0
+2014-07-23T09:27:44.080-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T09:27:44.082-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T09:27:44.082-0700 [clientcursormon]  connections:0
+2014-07-23T09:33:00.973-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T09:33:00.973-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T09:33:00.973-0700 [clientcursormon]  connections:0
+2014-07-23T15:30:38.004-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T15:30:38.004-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T15:30:38.004-0700 [clientcursormon]  connections:0
+2014-07-23T15:35:38.063-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T15:35:38.064-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T15:35:38.064-0700 [clientcursormon]  connections:0
+2014-07-23T15:40:38.120-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T15:40:38.120-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T15:40:38.120-0700 [clientcursormon]  connections:0
+2014-07-23T15:45:38.177-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T15:45:38.177-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T15:45:38.177-0700 [clientcursormon]  connections:0
+2014-07-23T15:50:38.233-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T15:50:38.233-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T15:50:38.233-0700 [clientcursormon]  connections:0
+2014-07-23T15:55:38.289-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T15:55:38.289-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T15:55:38.289-0700 [clientcursormon]  connections:0
+2014-07-23T16:00:38.345-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T16:00:38.345-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T16:00:38.347-0700 [clientcursormon]  connections:0
+2014-07-23T16:05:38.403-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T16:05:38.403-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T16:05:38.403-0700 [clientcursormon]  connections:0
+2014-07-23T16:10:38.455-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-23T16:10:38.456-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-23T16:10:38.457-0700 [clientcursormon]  connections:0
+2014-07-24T09:37:23.975-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-24T09:37:23.976-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-24T09:37:23.976-0700 [clientcursormon]  connections:0
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 3, 2014 9:30:41 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/greenhouse/src/test/java/com/springsource/greenhouse/events/load/JdbcEventLoaderRepositoryTest-context.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+<https://api.github.com/organizations/4161866/repos?page=2>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last"
+<https://api.github.com/organizations/4161866/repos?page=3>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last", <https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=1>; rel="prev"
+<https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=2>; rel="prev"
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 7, 2014 3:02:19 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/greenhouse/src/test/java/com/springsource/greenhouse/events/load/JdbcEventLoaderRepositoryTest-context.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Connection to https://spring.io/blog.atom failed on spring.io. Retry attempt 0 started
+java.net.UnknownHostException: spring.io
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$1.lookupAllHostAddr(InetAddress.java:849)
+	at java.net.InetAddress.getAddressFromNameService(InetAddress.java:1202)
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1153)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1083)
+	at java.net.InetAddress.getAllByName(InetAddress.java:1019)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:242)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:130)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:150)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:121)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:575)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:425)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:820)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:754)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1074)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:621)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:879)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:570)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.read(FileReader.java:273)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:172)
+	at sun.reflect.GeneratedMethodAccessor137.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.springsource.ide.eclipse.commons.internal.core.net.P2TransportService.stream(P2TransportService.java:139)
+	at org.springsource.ide.eclipse.commons.core.HttpUtil.stream(HttpUtil.java:165)
+	at org.springsource.ide.eclipse.dashboard.internal.ui.editors.AggregateFeedJob$1.run(AggregateFeedJob.java:145)
+	at java.lang.Thread.run(Thread.java:680)
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Exception in thread "org.eclipse.jdt.internal.ui.text.JavaReconciler" java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding$3.compare(ReferenceBinding.java:90)
+	at org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding$3.compare(ReferenceBinding.java:1)
+	at java.util.Arrays.mergeSort(Arrays.java:1270)
+	at java.util.Arrays.mergeSort(Arrays.java:1281)
+	at java.util.Arrays.mergeSort(Arrays.java:1282)
+	at java.util.Arrays.mergeSort(Arrays.java:1282)
+	at java.util.Arrays.mergeSort(Arrays.java:1281)
+	at java.util.Arrays.sort(Arrays.java:1251)
+	at org.eclipse.jdt.internal.compiler.lookup.ReferenceBinding.sortMethods(ReferenceBinding.java:213)
+	at org.eclipse.jdt.internal.compiler.lookup.BinaryTypeBinding.getMethods(BinaryTypeBinding.java:1120)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.findStaticMethod(CompilationUnitScope.java:539)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.findSingleStaticImport(CompilationUnitScope.java:517)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.findSingleImport(CompilationUnitScope.java:491)
+	at org.eclipse.jdt.internal.compiler.lookup.CompilationUnitScope.getImport(CompilationUnitScope.java:574)
+	at org.eclipse.jdt.core.dom.DefaultBindingResolver.resolveName(DefaultBindingResolver.java:1298)
+	at org.eclipse.jdt.core.dom.Name.resolveBinding(Name.java:87)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticToken.getBinding(SemanticToken.java:44)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightings.getBinding(SemanticHighlightings.java:2216)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightings.access$0(SemanticHighlightings.java:2209)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightings$DeprecatedMemberHighlighting.consumes(SemanticHighlightings.java:1191)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler$PositionCollector.visit(SemanticHighlightingReconciler.java:169)
+	at org.eclipse.jdt.core.dom.SimpleName.accept0(SimpleName.java:150)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:2711)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:2759)
+	at org.eclipse.jdt.core.dom.QualifiedName.accept0(QualifiedName.java:172)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:2711)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:2759)
+	at org.eclipse.jdt.core.dom.ImportDeclaration.accept0(ImportDeclaration.java:217)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:2711)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChildren(ASTNode.java:2782)
+	at org.eclipse.jdt.core.dom.CompilationUnit.accept0(CompilationUnit.java:211)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:2711)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconcilePositions(SemanticHighlightingReconciler.java:371)
+	at org.eclipse.jdt.internal.ui.javaeditor.SemanticHighlightingReconciler.reconciled(SemanticHighlightingReconciler.java:321)
+	at org.eclipse.jdt.internal.ui.javaeditor.CompilationUnitEditor.reconciled(CompilationUnitEditor.java:1664)
+	at org.eclipse.jdt.internal.ui.text.java.JavaReconcilingStrategy.reconciled(JavaReconcilingStrategy.java:212)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.reconciled(JavaCompositeReconcilingStrategy.java:164)
+	at org.eclipse.jdt.internal.ui.text.JavaCompositeReconcilingStrategy.initialReconcile(JavaCompositeReconcilingStrategy.java:144)
+	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:105)
+	at org.eclipse.jdt.internal.ui.text.JavaReconciler.initialProcess(JavaReconciler.java:406)
+	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:173)
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 10, 2014 10:52:43 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request: The target server failed to respond
+Aug 10, 2014 10:52:43 PM org.apache.http.impl.client.DefaultRequestDirector tryExecute
+INFO: Retrying request
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+<https://api.github.com/organizations/4161866/repos?page=2>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last"
+<https://api.github.com/organizations/4161866/repos?page=3>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last", <https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=1>; rel="prev"
+<https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=2>; rel="prev"
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+13:32:21.024 [Connection worker] DEBUG o.g.t.i.provider.DefaultConnection - Tooling API provider 1.10 created.
+13:32:21.632 [Connection worker] DEBUG o.g.t.i.provider.ProviderConnection - Configuring logging to level: INFO
+Tooling API is using target Gradle version: 1.10.
+Starting Gradle daemon
+Starting daemon process: workingDir = /Users/ra61859/.gradle/daemon/1.10, daemonArgs: [/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=MacRoman, -cp, /Users/ra61859/.gradle/wrapper/dists/gradle-1.10-bin/6oa4rff9viiqskhgd6uns5v1f8/gradle-1.10/lib/gradle-launcher-1.10.jar, org.gradle.launcher.daemon.bootstrap.GradleDaemon, 1.10, /Users/ra61859/.gradle/daemon, 10800000, 64c1b8b5-5334-423f-8759-dd2cb4f7dd48, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=MacRoman]
+Starting process 'Gradle build daemon'. Working directory: /Users/ra61859/.gradle/daemon/1.10 Command: /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=MacRoman -cp /Users/ra61859/.gradle/wrapper/dists/gradle-1.10-bin/6oa4rff9viiqskhgd6uns5v1f8/gradle-1.10/lib/gradle-launcher-1.10.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 1.10 /Users/ra61859/.gradle/daemon 10800000 64c1b8b5-5334-423f-8759-dd2cb4f7dd48 -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=MacRoman
+An attempt to initialize for well behaving parent process finished.
+Successfully started process 'Gradle build daemon'
+An attempt to start the daemon took 1.076 secs.
+Connected to the daemon. Dispatching Build{id=e3367820-6bcd-4c41-9aba-428dbd746308.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+
+BUILD SUCCESSFUL
+
+Total time: 8.764 secs
+Creating ClassLoader d845f979-e655-4251-98b1-488a1d53fbab from system and [org.gradle.internal.classloader.FilteringClassLoader@9639b65].
+Creating ClassLoader 58d30958-7250-42c9-849c-838cb9ba4a49 from org.gradle.internal.classloader.MutableURLClassLoader$Spec@23e42232 and [org.gradle.internal.classloader.FilteringClassLoader@9639b65].
+Creating ClassLoader 7aa30e35-4e2b-48d7-a1aa-621e30d1ba01 from org.gradle.internal.classloader.MutableURLClassLoader$Spec@d1e8126c and [org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@4703748d].
+Creating ClassLoader 893de18f-813c-4b82-8647-0e4041c9e36e from org.gradle.internal.classloader.MutableURLClassLoader$Spec@7e85b1d9 and [org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@33d8f967].
+Creating ClassLoader b75e1653-3c12-4f51-a727-d39ce7599ff9 from org.gradle.internal.classloader.MultiParentClassLoader$Spec@a612e20 and [org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@33d8f967, org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@69ddf3c8].
+Creating ClassLoader d84eb866-6963-4e25-86ba-1c7d4a3965d2 from org.gradle.internal.classloader.CachingClassLoader$Spec@a1369b1c and [org.gradle.internal.classloader.MultiParentClassLoader@6ab005c4].
+Creating ClassLoader a4bd296e-7af7-4739-9eca-133e0ab7df83 from org.gradle.internal.classloader.MutableURLClassLoader$Spec@aa8369d1 and [org.gradle.internal.classloader.CachingClassLoader@4a4abd94].
+Tooling API is using target Gradle version: 1.10.
+Connected to the daemon. Dispatching Build{id=59def4d5-1b16-4cb4-a647-4b2e2ecca30b.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+Download http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-parent/1.1.4.RELEASE/spring-boot-parent-1.1.4.RELEASE.pom
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-broker/5.10.0/activemq-broker-5.10.0.pom
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-parent/5.10.0/activemq-parent-5.10.0.pom
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-client/5.10.0/activemq-client-5.10.0.pom
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-openwire-legacy/5.10.0/activemq-openwire-legacy-5.10.0.pom
+Download http://repo1.maven.org/maven2/org/fusesource/hawtbuf/hawtbuf/1.10/hawtbuf-1.10.pom
+Download http://repo1.maven.org/maven2/org/fusesource/hawtbuf/hawtbuf-project/1.10/hawtbuf-project-1.10.pom
+Download http://repo1.maven.org/maven2/org/fusesource/fusesource-pom/1.10/fusesource-pom-1.10.pom
+Download http://repo1.maven.org/maven2/org/springframework/spring-expression/4.0.6.RELEASE/spring-expression-4.0.6.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-tx/4.0.6.RELEASE/spring-tx-4.0.6.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/fusesource/hawtbuf/hawtbuf/1.10/hawtbuf-1.10-sources.jar
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-broker/5.10.0/activemq-broker-5.10.0-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-core/4.0.6.RELEASE/spring-core-4.0.6.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-openwire-legacy/5.10.0/activemq-openwire-legacy-5.10.0-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.1.4.RELEASE/spring-boot-autoconfigure-1.1.4.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter/1.1.4.RELEASE/spring-boot-starter-1.1.4.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.1.4.RELEASE/spring-boot-starter-logging-1.1.4.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-client/5.10.0/activemq-client-5.10.0-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-jms/4.0.6.RELEASE/spring-jms-4.0.6.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/boot/spring-boot/1.1.4.RELEASE/spring-boot-1.1.4.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/springframework/spring-aop/4.0.6.RELEASE/spring-aop-4.0.6.RELEASE-sources.jar
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-broker/5.10.0/activemq-broker-5.10.0.jar
+Download http://repo1.maven.org/maven2/org/fusesource/hawtbuf/hawtbuf/1.10/hawtbuf-1.10.jar
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-client/5.10.0/activemq-client-5.10.0.jar
+Download http://repo1.maven.org/maven2/org/apache/activemq/activemq-openwire-legacy/5.10.0/activemq-openwire-legacy-5.10.0.jar
+
+BUILD SUCCESSFUL
+
+Total time: 40.64 secs
+Tooling API is using target Gradle version: 1.10.
+Connected to the daemon. Dispatching Build{id=33608615-53e0-44ad-8ed8-a2ef0e6617f2.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+:cleanEclipseClasspath
+:cleanEclipseJdt UP-TO-DATE
+:cleanEclipseProject
+:cleanEclipse
+:eclipseClasspath
+:eclipseJdt
+:eclipseProject
+:eclipse
+
+BUILD SUCCESSFUL
+
+Total time: 1.504 secs
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14, 2014 2:35:12 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/configuration.xml]
+Aug 14, 2014 2:35:13 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/configuration.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14, 2014 2:35:42 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/configuration.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14, 2014 2:48:08 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/src/main/java/com/gap/logistics/inbound/config/configuration.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14, 2014 2:48:08 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/src/main/java/com/gap/logistics/inbound/config/configuration.xml]
+Aug 14, 2014 2:48:09 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/src/main/java/com/gap/logistics/inbound/config/configuration.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14, 2014 2:49:27 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/src/main/java/com/gap/logistics/inbound/configuration.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14, 2014 2:49:27 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/src/main/java/com/gap/logistics/inbound/configuration.xml]
+Aug 14, 2014 2:49:28 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/src/main/java/com/gap/logistics/inbound/configuration.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14, 2014 2:49:38 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/ISWParent/Shipment/src/main/java/com/gap/logistics/inbound/configuration.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Aug 14 15:22:57 L-SFF2XSDRVG-M STS[55352] <Error>: ripc_DrawWindowContents - Cannot acquire window image
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Downloading https://github.com/spring-guides/gs-consuming-rest-xml-android/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/GettingStartedGuide/gs-consuming-rest-xml-android
+Aug 19, 2014 10:01:43 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Downloading http://services.gradle.org/distributions/gradle-1.11-all.zip
+...............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+Unzipping /Users/ra61859/.gradle/wrapper/dists/gradle-1.11-all/7qd8qq8te5j4f5q9aaei3gh3lj/gradle-1.11-all.zip to /Users/ra61859/.gradle/wrapper/dists/gradle-1.11-all/7qd8qq8te5j4f5q9aaei3gh3lj
+Set executable permissions for: /Users/ra61859/.gradle/wrapper/dists/gradle-1.11-all/7qd8qq8te5j4f5q9aaei3gh3lj/gradle-1.11/bin/gradle
+15:56:36.725 [Connection worker] DEBUG o.g.t.i.provider.DefaultConnection - Tooling API provider 1.11 created.
+15:58:32.886 [Connection worker] DEBUG o.g.t.i.provider.DefaultConnection - Tooling API provider 1.11 created.

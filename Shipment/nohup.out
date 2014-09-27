@@ -1,0 +1,1369 @@
+Jul 12, 2014 2:50:45 AM org.apache.http.impl.client.DefaultRequestDirector tryConnect
+INFO: I/O exception (java.io.IOException) caught when connecting to the target host: Connection already shutdown
+Jul 12, 2014 2:50:45 AM org.apache.http.impl.client.DefaultRequestDirector tryConnect
+INFO: Retrying connect
+02:51:31.053 [Connection worker] DEBUG o.g.t.i.provider.DefaultConnection - Tooling API provider 1.10 created.
+02:51:32.456 [Connection worker] DEBUG o.g.t.i.provider.ProviderConnection - Configuring logging to level: INFO
+Tooling API is using target Gradle version: 1.10.
+Starting Gradle daemon
+Starting daemon process: workingDir = /Users/ra61859/.gradle/daemon/1.10, daemonArgs: [/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=MacRoman, -cp, /Users/ra61859/.gradle/wrapper/dists/gradle-1.10-bin/6oa4rff9viiqskhgd6uns5v1f8/gradle-1.10/lib/gradle-launcher-1.10.jar, org.gradle.launcher.daemon.bootstrap.GradleDaemon, 1.10, /Users/ra61859/.gradle/daemon, 10800000, 393af244-b33f-4e61-a23d-53e9df4befc1, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=MacRoman]
+Starting process 'Gradle build daemon'. Working directory: /Users/ra61859/.gradle/daemon/1.10 Command: /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/java -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=MacRoman -cp /Users/ra61859/.gradle/wrapper/dists/gradle-1.10-bin/6oa4rff9viiqskhgd6uns5v1f8/gradle-1.10/lib/gradle-launcher-1.10.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 1.10 /Users/ra61859/.gradle/daemon 10800000 393af244-b33f-4e61-a23d-53e9df4befc1 -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=MacRoman
+An attempt to initialize for well behaving parent process finished.
+Successfully started process 'Gradle build daemon'
+An attempt to start the daemon took 3.718 secs.
+Connected to the daemon. Dispatching Build{id=d74ef97e-58c5-46e4-b27e-33f2893482e2.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+
+BUILD SUCCESSFUL
+
+Total time: 20.238 secs
+Creating ClassLoader 3cb5a919-06ac-4186-9222-e8513a23fff5 from system and [org.gradle.internal.classloader.FilteringClassLoader@41941fd2].
+Creating ClassLoader 1c517856-526a-4268-8e93-f97d2acedee3 from org.gradle.internal.classloader.MutableURLClassLoader$Spec@23e42232 and [org.gradle.internal.classloader.FilteringClassLoader@41941fd2].
+Creating ClassLoader 03a4f351-9954-4912-9497-625bfef391af from org.gradle.internal.classloader.MutableURLClassLoader$Spec@d1e8126c and [org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@487dfec2].
+Creating ClassLoader 61f6363a-4420-49b6-ab28-1aad8983c01d from org.gradle.internal.classloader.MutableURLClassLoader$Spec@7e85b1d9 and [org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@47e097bc].
+Creating ClassLoader 1fe2b87b-6757-415d-88c5-a552d50787fc from org.gradle.internal.classloader.MultiParentClassLoader$Spec@a612e20 and [org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@47e097bc, org.gradle.tooling.internal.provider.ModelClassLoaderFactory$MixInClassLoader@6a09dc81].
+Creating ClassLoader 4a5a7174-c262-4119-a398-3b07e69f0070 from org.gradle.internal.classloader.CachingClassLoader$Spec@a1369b1c and [org.gradle.internal.classloader.MultiParentClassLoader@2d6bcf8a].
+Creating ClassLoader 2d64d460-a1e0-4902-bb82-22b40f190a52 from org.gradle.internal.classloader.MutableURLClassLoader$Spec@aa8369d1 and [org.gradle.internal.classloader.CachingClassLoader@1068452].
+Tooling API is using target Gradle version: 1.10.
+Connected to the daemon. Dispatching Build{id=a82366ac-ea57-4cf1-8d8f-7b10d4937fcc.1, currentDir=/Users/ra61859/springsource/sts-3.5.1.RELEASE/STS.app/Contents/MacOS} request.
+
+BUILD SUCCESSFUL
+
+Total time: 1.301 secs
+Jul 12, 2014 2:51:59 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundLogisticsWorkspace/SpringWeb/src/main/resources/spring/application-config.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Jul 12, 2014 2:52:13 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/Shipment/src/test/resources/applicationContext.xml]
+Jul 12, 2014 2:52:14 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/Shipment/src/main/resources/applicationContext.xml]
+Jul 12, 2014 2:52:14 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/Shipment/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml]
+Jul 12, 2014 2:52:16 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ShipmentOrder/src/test/resources/applicationContext.xml]
+Jul 12, 2014 2:52:16 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ShipmentOrder/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml]
+Jul 12, 2014 2:52:16 AM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ShipmentOrder/src/main/resources/applicationContext.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+<https://api.github.com/organizations/4161866/repos?page=2>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last"
+<https://api.github.com/organizations/4161866/repos?page=3>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last", <https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=1>; rel="prev"
+<https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=2>; rel="prev"
+Downloading https://github.com/spring-guides/gs-rest-service/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/GettingStartedGuide/gs-rest-service
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Downloading https://github.com/spring-projects/spring-petclinic/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/ReferenceApp/spring-petclinic
+Downloading https://github.com/spring-projects/spring-mvc-showcase/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/ReferenceApp/spring-mvc-showcase
+Downloading https://github.com/spring-projects/greenhouse/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/ReferenceApp/greenhouse
+[debug] execute contextualize
+[debug] execute contextualize
+[INFO] Failed to parse Maven artifact /Users/ra61859/.m2/repository/net/java/dev/jets3t/jets3t/0.8.1/jets3t-0.8.1.jar due to invalid CEN header (bad signature)
+[INFO] Failed to parse Maven artifact /Users/ra61859/.m2/repository/org/springframework/security/spring-security-core/3.1.0.RELEASE/spring-security-core-3.1.0.RELEASE.jar due to invalid CEN header (bad signature)
+[INFO] Failed to parse Maven artifact /Users/ra61859/.m2/repository/org/glassfish/web/jstl-impl/1.2/jstl-impl-1.2.jar due to invalid CEN header (bad signature)
+[INFO] Failed to parse Maven artifact /Users/ra61859/.m2/repository/org/hibernate/hibernate-validator/4.2.0.Final/hibernate-validator-4.2.0.Final.jar due to invalid CEN header (bad signature)
+[INFO] Failed to parse Maven artifact /Users/ra61859/.m2/repository/joda-time/joda-time/2.0/joda-time-2.0.jar due to invalid CEN header (bad signature)
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+/Applications/mongodb/bin/mongod --help for help and startup options
+2014-07-14T14:11:47.541-0700 [initandlisten] MongoDB starting : pid=53304 port=27017 dbpath=/data/db 64-bit host=L-SFF2XSDRVG-M
+2014-07-14T14:11:47.541-0700 [initandlisten] 
+2014-07-14T14:11:47.541-0700 [initandlisten] ** WARNING: soft rlimits too low. Number of files is 256, should be at least 1000
+2014-07-14T14:11:47.541-0700 [initandlisten] db version v2.6.3
+2014-07-14T14:11:47.541-0700 [initandlisten] git version: 255f67a66f9603c59380b2a389e386910bbb52cb
+2014-07-14T14:11:47.541-0700 [initandlisten] build info: Darwin mci-osx108-3.build.10gen.cc 12.3.0 Darwin Kernel Version 12.3.0: Sun Jan  6 22:37:10 PST 2013; root:xnu-2050.22.13~1/RELEASE_X86_64 x86_64 BOOST_LIB_VERSION=1_49
+2014-07-14T14:11:47.541-0700 [initandlisten] allocator: system
+2014-07-14T14:11:47.541-0700 [initandlisten] options: {}
+2014-07-14T14:11:47.541-0700 [initandlisten] journal dir=/data/db/journal
+2014-07-14T14:11:47.541-0700 [initandlisten] recover : no journal files present, no recovery needed
+2014-07-14T14:11:47.561-0700 [initandlisten] waiting for connections on port 27017
+2014-07-14T14:12:07.520-0700 [initandlisten] connection accepted from 127.0.0.1:57953 #1 (1 connection now open)
+2014-07-14T14:12:47.570-0700 [clientcursormon] mem (MB) res:51 virt:2813
+2014-07-14T14:12:47.570-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:12:47.570-0700 [clientcursormon]  connections:1
+2014-07-14T14:17:47.625-0700 [clientcursormon] mem (MB) res:51 virt:2813
+2014-07-14T14:17:47.625-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:17:47.625-0700 [clientcursormon]  connections:1
+2014-07-14T14:22:47.679-0700 [clientcursormon] mem (MB) res:51 virt:2813
+2014-07-14T14:22:47.680-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:22:47.680-0700 [clientcursormon]  connections:1
+2014-07-14T14:27:47.733-0700 [clientcursormon] mem (MB) res:51 virt:2813
+2014-07-14T14:27:47.734-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:27:47.734-0700 [clientcursormon]  connections:1
+2014-07-14T14:32:47.788-0700 [clientcursormon] mem (MB) res:51 virt:2813
+2014-07-14T14:32:47.789-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:32:47.789-0700 [clientcursormon]  connections:1
+2014-07-14T14:37:47.844-0700 [clientcursormon] mem (MB) res:51 virt:2813
+2014-07-14T14:37:47.845-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:37:47.845-0700 [clientcursormon]  connections:1
+2014-07-14T14:54:19.949-0700 [clientcursormon] mem (MB) res:40 virt:2813
+2014-07-14T14:54:19.951-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:54:19.951-0700 [clientcursormon]  connections:1
+2014-07-14T14:59:20.014-0700 [clientcursormon] mem (MB) res:40 virt:2813
+2014-07-14T14:59:20.015-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T14:59:20.015-0700 [clientcursormon]  connections:1
+2014-07-14T15:04:20.073-0700 [clientcursormon] mem (MB) res:40 virt:2813
+2014-07-14T15:04:20.076-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T15:04:20.076-0700 [clientcursormon]  connections:1
+2014-07-14T15:09:20.136-0700 [clientcursormon] mem (MB) res:40 virt:2813
+2014-07-14T15:09:20.136-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T15:09:20.136-0700 [clientcursormon]  connections:1
+2014-07-14T16:11:19.005-0700 [clientcursormon] mem (MB) res:40 virt:2813
+2014-07-14T16:11:19.005-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T16:11:19.005-0700 [clientcursormon]  connections:1
+2014-07-14T17:43:44.989-0700 [clientcursormon] mem (MB) res:40 virt:2813
+2014-07-14T17:43:44.989-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T17:43:44.989-0700 [clientcursormon]  connections:1
+2014-07-14T17:48:45.049-0700 [clientcursormon] mem (MB) res:40 virt:2813
+2014-07-14T17:48:45.050-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T17:48:45.050-0700 [clientcursormon]  connections:1
+2014-07-14T17:53:45.103-0700 [clientcursormon] mem (MB) res:15 virt:2813
+2014-07-14T17:53:45.105-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T17:53:45.105-0700 [clientcursormon]  connections:1
+2014-07-14T17:58:45.156-0700 [clientcursormon] mem (MB) res:15 virt:2813
+2014-07-14T17:58:45.157-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T17:58:45.157-0700 [clientcursormon]  connections:1
+2014-07-14T18:03:45.217-0700 [clientcursormon] mem (MB) res:15 virt:2813
+2014-07-14T18:03:45.217-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T18:03:45.217-0700 [clientcursormon]  connections:1
+2014-07-14T18:08:45.278-0700 [clientcursormon] mem (MB) res:14 virt:2813
+2014-07-14T18:08:45.280-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T18:08:45.280-0700 [clientcursormon]  connections:1
+2014-07-14T18:13:45.336-0700 [clientcursormon] mem (MB) res:14 virt:2813
+2014-07-14T18:13:45.338-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T18:13:45.338-0700 [clientcursormon]  connections:1
+2014-07-14T19:02:40.984-0700 [clientcursormon] mem (MB) res:14 virt:2813
+2014-07-14T19:02:40.986-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T19:02:40.986-0700 [clientcursormon]  connections:1
+2014-07-14T19:07:41.042-0700 [clientcursormon] mem (MB) res:14 virt:2813
+2014-07-14T19:07:41.043-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T19:07:41.044-0700 [clientcursormon]  connections:1
+2014-07-14T19:18:56.981-0700 [clientcursormon] mem (MB) res:14 virt:2813
+2014-07-14T19:18:56.983-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T19:18:56.983-0700 [clientcursormon]  connections:1
+2014-07-14T19:23:57.039-0700 [clientcursormon] mem (MB) res:14 virt:2813
+2014-07-14T19:23:57.041-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T19:23:57.041-0700 [clientcursormon]  connections:1
+2014-07-14T20:17:05.940-0700 [clientcursormon] mem (MB) res:11 virt:2813
+2014-07-14T20:17:05.941-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T20:17:05.941-0700 [clientcursormon]  connections:1
+2014-07-14T20:22:05.994-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T20:22:05.996-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T20:22:05.996-0700 [clientcursormon]  connections:1
+2014-07-14T20:27:06.045-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T20:27:06.045-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T20:27:06.045-0700 [clientcursormon]  connections:1
+2014-07-14T20:32:06.101-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T20:32:06.101-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T20:32:06.103-0700 [clientcursormon]  connections:1
+2014-07-14T22:53:34.455-0700 [DataFileSync] flushing mmaps took 8327558ms  for 5 files
+2014-07-14T22:54:09.999-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T22:54:09.999-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T22:54:09.999-0700 [clientcursormon]  connections:1
+2014-07-14T22:59:10.057-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T22:59:10.057-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T22:59:10.057-0700 [clientcursormon]  connections:1
+2014-07-14T23:04:10.112-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T23:04:10.112-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T23:04:10.112-0700 [clientcursormon]  connections:1
+2014-07-14T23:09:10.169-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T23:09:10.169-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T23:09:10.169-0700 [clientcursormon]  connections:1
+2014-07-14T23:14:10.225-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-14T23:14:10.227-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-14T23:14:10.227-0700 [clientcursormon]  connections:1
+2014-07-15T09:45:05.979-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T09:45:05.980-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T09:45:05.980-0700 [clientcursormon]  connections:1
+2014-07-15T09:50:06.027-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-15T09:50:06.071-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T09:50:06.071-0700 [clientcursormon]  connections:1
+2014-07-15T09:55:06.139-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-15T09:55:06.139-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T09:55:06.139-0700 [clientcursormon]  connections:1
+2014-07-15T09:57:06.167-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T09:57:06.167-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T09:57:06.167-0700 [clientcursormon]  connections:1
+2014-07-15T10:02:06.239-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:02:06.239-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:02:06.239-0700 [clientcursormon]  connections:1
+2014-07-15T10:07:06.308-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:07:06.308-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:07:06.308-0700 [clientcursormon]  connections:1
+2014-07-15T10:12:06.378-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:12:06.378-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:12:06.378-0700 [clientcursormon]  connections:1
+2014-07-15T10:17:06.445-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:17:06.445-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:17:06.445-0700 [clientcursormon]  connections:1
+2014-07-15T10:22:06.513-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:22:06.513-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:22:06.513-0700 [clientcursormon]  connections:1
+2014-07-15T10:27:06.577-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:27:06.577-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:27:06.577-0700 [clientcursormon]  connections:1
+2014-07-15T10:32:06.642-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:32:06.643-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:32:06.643-0700 [clientcursormon]  connections:1
+2014-07-15T10:37:06.701-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:37:06.702-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:37:06.702-0700 [clientcursormon]  connections:1
+2014-07-15T10:42:06.756-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:42:06.756-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:42:06.756-0700 [clientcursormon]  connections:1
+2014-07-15T10:47:06.811-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:47:06.811-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:47:06.811-0700 [clientcursormon]  connections:1
+2014-07-15T10:52:06.863-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:52:06.863-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:52:06.863-0700 [clientcursormon]  connections:1
+2014-07-15T10:57:06.917-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T10:57:06.917-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T10:57:06.919-0700 [clientcursormon]  connections:1
+2014-07-15T11:02:06.974-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:02:06.974-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:02:06.974-0700 [clientcursormon]  connections:1
+2014-07-15T11:07:07.038-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:07:07.038-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:07:07.038-0700 [clientcursormon]  connections:1
+2014-07-15T11:12:07.089-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:12:07.090-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:12:07.090-0700 [clientcursormon]  connections:1
+2014-07-15T11:17:07.143-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:17:07.143-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:17:07.143-0700 [clientcursormon]  connections:1
+2014-07-15T11:22:07.200-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:22:07.200-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:22:07.200-0700 [clientcursormon]  connections:1
+2014-07-15T11:27:07.255-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:27:07.256-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:27:07.256-0700 [clientcursormon]  connections:1
+2014-07-15T11:32:07.308-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:32:07.311-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:32:07.311-0700 [clientcursormon]  connections:1
+2014-07-15T11:37:07.362-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:37:07.364-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:37:07.364-0700 [clientcursormon]  connections:1
+2014-07-15T11:42:07.416-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:42:07.417-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:42:07.417-0700 [clientcursormon]  connections:1
+2014-07-15T11:47:07.471-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:47:07.472-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:47:07.472-0700 [clientcursormon]  connections:1
+2014-07-15T11:52:07.521-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:52:07.522-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:52:07.522-0700 [clientcursormon]  connections:1
+2014-07-15T11:57:07.578-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T11:57:07.579-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T11:57:07.579-0700 [clientcursormon]  connections:1
+2014-07-15T12:02:07.630-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:02:07.631-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:02:07.632-0700 [clientcursormon]  connections:1
+2014-07-15T12:07:07.688-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:07:07.691-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:07:07.691-0700 [clientcursormon]  connections:1
+2014-07-15T12:12:07.747-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:12:07.747-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:12:07.747-0700 [clientcursormon]  connections:1
+2014-07-15T12:17:07.802-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:17:07.803-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:17:07.804-0700 [clientcursormon]  connections:1
+2014-07-15T12:22:07.857-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:22:07.858-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:22:07.858-0700 [clientcursormon]  connections:1
+2014-07-15T12:27:07.912-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:27:07.914-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:27:07.914-0700 [clientcursormon]  connections:1
+2014-07-15T12:32:07.971-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:32:07.973-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:32:07.973-0700 [clientcursormon]  connections:1
+2014-07-15T12:37:08.026-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:37:08.026-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:37:08.026-0700 [clientcursormon]  connections:1
+2014-07-15T12:42:08.079-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:42:08.079-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:42:08.079-0700 [clientcursormon]  connections:1
+2014-07-15T12:47:08.137-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:47:08.138-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:47:08.138-0700 [clientcursormon]  connections:1
+2014-07-15T12:52:08.193-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:52:08.193-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:52:08.193-0700 [clientcursormon]  connections:1
+2014-07-15T12:57:08.252-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T12:57:08.252-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T12:57:08.254-0700 [clientcursormon]  connections:1
+2014-07-15T13:02:08.307-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:02:08.307-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:02:08.307-0700 [clientcursormon]  connections:1
+2014-07-15T13:07:08.359-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:07:08.359-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:07:08.359-0700 [clientcursormon]  connections:1
+2014-07-15T13:12:08.413-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:12:08.414-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:12:08.414-0700 [clientcursormon]  connections:1
+2014-07-15T13:17:08.470-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:17:08.470-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:17:08.470-0700 [clientcursormon]  connections:1
+2014-07-15T13:22:08.526-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:22:08.526-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:22:08.526-0700 [clientcursormon]  connections:1
+2014-07-15T13:27:08.577-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:27:08.578-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:27:08.578-0700 [clientcursormon]  connections:1
+2014-07-15T13:32:08.628-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:32:08.628-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:32:08.628-0700 [clientcursormon]  connections:1
+2014-07-15T13:37:08.679-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:37:08.679-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:37:08.681-0700 [clientcursormon]  connections:1
+2014-07-15T13:42:08.737-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:42:08.738-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:42:08.738-0700 [clientcursormon]  connections:1
+2014-07-15T13:47:08.805-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:47:08.808-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:47:08.808-0700 [clientcursormon]  connections:1
+2014-07-15T13:52:08.863-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:52:08.865-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:52:08.865-0700 [clientcursormon]  connections:1
+2014-07-15T13:57:08.917-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T13:57:08.918-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T13:57:08.919-0700 [clientcursormon]  connections:1
+2014-07-15T14:02:08.974-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:02:08.976-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:02:08.976-0700 [clientcursormon]  connections:1
+2014-07-15T14:07:09.035-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:07:09.036-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:07:09.036-0700 [clientcursormon]  connections:1
+2014-07-15T14:12:09.097-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:12:09.098-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:12:09.098-0700 [clientcursormon]  connections:1
+2014-07-15T14:17:09.150-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:17:09.151-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:17:09.152-0700 [clientcursormon]  connections:1
+2014-07-15T14:22:09.207-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:22:09.209-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:22:09.209-0700 [clientcursormon]  connections:1
+2014-07-15T14:27:09.265-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:27:09.267-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:27:09.267-0700 [clientcursormon]  connections:1
+2014-07-15T14:32:09.317-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:32:09.320-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:32:09.320-0700 [clientcursormon]  connections:1
+2014-07-15T14:37:09.374-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:37:09.375-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:37:09.375-0700 [clientcursormon]  connections:1
+2014-07-15T14:42:09.432-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:42:09.434-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:42:09.434-0700 [clientcursormon]  connections:1
+2014-07-15T14:47:09.487-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:47:09.489-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:47:09.489-0700 [clientcursormon]  connections:1
+2014-07-15T14:52:09.544-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:52:09.546-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:52:09.546-0700 [clientcursormon]  connections:1
+2014-07-15T14:57:09.602-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T14:57:09.604-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T14:57:09.605-0700 [clientcursormon]  connections:1
+2014-07-15T15:02:09.658-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:02:09.661-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:02:09.661-0700 [clientcursormon]  connections:1
+2014-07-15T15:07:09.719-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:07:09.721-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:07:09.721-0700 [clientcursormon]  connections:1
+2014-07-15T15:12:09.779-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:12:09.781-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:12:09.781-0700 [clientcursormon]  connections:1
+2014-07-15T15:17:09.832-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:17:09.834-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:17:09.834-0700 [clientcursormon]  connections:1
+2014-07-15T15:22:09.888-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:22:09.888-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:22:09.888-0700 [clientcursormon]  connections:1
+2014-07-15T15:27:09.939-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:27:09.941-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:27:09.941-0700 [clientcursormon]  connections:1
+2014-07-15T15:32:09.992-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:32:09.994-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:32:09.994-0700 [clientcursormon]  connections:1
+2014-07-15T15:37:10.046-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:37:10.047-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:37:10.048-0700 [clientcursormon]  connections:1
+2014-07-15T15:42:10.105-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:42:10.106-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:42:10.106-0700 [clientcursormon]  connections:1
+2014-07-15T15:47:10.158-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:47:10.158-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:47:10.158-0700 [clientcursormon]  connections:1
+2014-07-15T15:52:10.214-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:52:10.216-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:52:10.217-0700 [clientcursormon]  connections:1
+2014-07-15T15:57:10.272-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T15:57:10.272-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T15:57:10.272-0700 [clientcursormon]  connections:1
+2014-07-15T16:02:10.323-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:02:10.323-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:02:10.323-0700 [clientcursormon]  connections:1
+2014-07-15T16:07:10.376-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:07:10.376-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:07:10.376-0700 [clientcursormon]  connections:1
+2014-07-15T16:12:10.423-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:12:10.423-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:12:10.423-0700 [clientcursormon]  connections:1
+2014-07-15T16:17:10.476-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:17:10.476-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:17:10.479-0700 [clientcursormon]  connections:1
+2014-07-15T16:22:10.536-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:22:10.536-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:22:10.536-0700 [clientcursormon]  connections:1
+2014-07-15T16:27:10.605-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:27:10.605-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:27:10.605-0700 [clientcursormon]  connections:1
+2014-07-15T16:32:10.670-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:32:10.673-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:32:10.673-0700 [clientcursormon]  connections:1
+2014-07-15T16:37:10.739-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:37:10.739-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:37:10.739-0700 [clientcursormon]  connections:1
+2014-07-15T16:42:10.802-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T16:42:10.802-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T16:42:10.802-0700 [clientcursormon]  connections:1
+2014-07-15T19:17:59.940-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:17:59.940-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:17:59.940-0700 [clientcursormon]  connections:1
+2014-07-15T19:22:59.999-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:22:59.999-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:22:59.999-0700 [clientcursormon]  connections:1
+2014-07-15T19:28:00.063-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:28:00.063-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:28:00.063-0700 [clientcursormon]  connections:1
+2014-07-15T19:33:00.121-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:33:00.121-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:33:00.121-0700 [clientcursormon]  connections:1
+2014-07-15T19:38:00.178-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:38:00.178-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:38:00.178-0700 [clientcursormon]  connections:1
+2014-07-15T19:43:00.238-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:43:00.238-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:43:00.238-0700 [clientcursormon]  connections:1
+2014-07-15T19:48:00.303-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:48:00.304-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:48:00.304-0700 [clientcursormon]  connections:1
+2014-07-15T19:53:00.363-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-15T19:53:00.363-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:53:00.363-0700 [clientcursormon]  connections:1
+2014-07-15T19:58:00.428-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T19:58:00.428-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T19:58:00.428-0700 [clientcursormon]  connections:1
+2014-07-15T20:02:00.480-0700 [clientcursormon] mem (MB) res:4 virt:2813
+2014-07-15T20:02:00.480-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T20:02:00.480-0700 [clientcursormon]  connections:1
+2014-07-15T20:07:00.539-0700 [clientcursormon] mem (MB) res:4 virt:2813
+2014-07-15T20:07:00.539-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T20:07:00.539-0700 [clientcursormon]  connections:1
+2014-07-15T20:07:10.980-0700 [initandlisten] connection accepted from 127.0.0.1:63313 #2 (2 connections now open)
+2014-07-15T20:07:11.987-0700 [initandlisten] connection accepted from 127.0.0.1:63316 #3 (3 connections now open)
+2014-07-15T20:07:15.358-0700 [conn2] end connection 127.0.0.1:63313 (2 connections now open)
+2014-07-15T20:07:15.704-0700 [conn3] end connection 127.0.0.1:63316 (1 connection now open)
+2014-07-15T20:07:20.434-0700 [initandlisten] connection accepted from 127.0.0.1:63320 #4 (2 connections now open)
+2014-07-15T20:07:20.573-0700 [initandlisten] connection accepted from 127.0.0.1:63321 #5 (3 connections now open)
+2014-07-15T20:07:26.939-0700 [initandlisten] connection accepted from 127.0.0.1:63322 #6 (4 connections now open)
+2014-07-15T20:07:34.280-0700 [initandlisten] connection accepted from 127.0.0.1:63327 #7 (5 connections now open)
+2014-07-15T20:08:31.239-0700 [conn7] end connection 127.0.0.1:63327 (4 connections now open)
+2014-07-15T20:08:31.239-0700 [conn5] end connection 127.0.0.1:63321 (4 connections now open)
+2014-07-15T20:08:31.239-0700 [conn4] end connection 127.0.0.1:63320 (4 connections now open)
+2014-07-15T20:08:31.239-0700 [conn6] end connection 127.0.0.1:63322 (3 connections now open)
+2014-07-15T23:10:56.936-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:10:56.936-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:10:56.936-0700 [clientcursormon]  connections:1
+2014-07-15T23:15:56.998-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:15:56.998-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:15:56.998-0700 [clientcursormon]  connections:1
+2014-07-15T23:21:37.001-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:21:37.001-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:21:37.001-0700 [clientcursormon]  connections:1
+2014-07-15T23:26:37.063-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:26:37.063-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:26:37.063-0700 [clientcursormon]  connections:1
+2014-07-15T23:31:37.126-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:31:37.126-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:31:37.126-0700 [clientcursormon]  connections:1
+2014-07-15T23:36:37.188-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:36:37.188-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:36:37.188-0700 [clientcursormon]  connections:1
+2014-07-15T23:41:37.250-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:41:37.250-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:41:37.250-0700 [clientcursormon]  connections:1
+2014-07-15T23:46:37.311-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:46:37.311-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:46:37.312-0700 [clientcursormon]  connections:1
+2014-07-15T23:51:37.377-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-15T23:51:37.377-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-15T23:51:37.377-0700 [clientcursormon]  connections:1
+2014-07-16T07:53:37.007-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T07:53:37.008-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T07:53:37.008-0700 [clientcursormon]  connections:1
+2014-07-16T07:58:37.076-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T07:58:37.078-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T07:58:37.078-0700 [clientcursormon]  connections:1
+2014-07-16T08:03:37.143-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:03:37.143-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:03:37.143-0700 [clientcursormon]  connections:1
+2014-07-16T08:08:37.204-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:08:37.204-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:08:37.204-0700 [clientcursormon]  connections:1
+2014-07-16T08:13:37.265-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:13:37.265-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:13:37.265-0700 [clientcursormon]  connections:1
+2014-07-16T08:18:37.328-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:18:37.328-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:18:37.328-0700 [clientcursormon]  connections:1
+2014-07-16T08:23:37.386-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:23:37.386-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:23:37.386-0700 [clientcursormon]  connections:1
+2014-07-16T08:28:37.439-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:28:37.439-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:28:37.439-0700 [clientcursormon]  connections:1
+2014-07-16T08:33:37.502-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:33:37.502-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:33:37.502-0700 [clientcursormon]  connections:1
+2014-07-16T08:38:37.562-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:38:37.562-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:38:37.562-0700 [clientcursormon]  connections:1
+2014-07-16T08:43:37.621-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:43:37.621-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:43:37.621-0700 [clientcursormon]  connections:1
+2014-07-16T08:48:37.687-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:48:37.687-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:48:37.687-0700 [clientcursormon]  connections:1
+2014-07-16T08:53:37.748-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:53:37.748-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:53:37.748-0700 [clientcursormon]  connections:1
+2014-07-16T08:58:37.808-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T08:58:37.808-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T08:58:37.808-0700 [clientcursormon]  connections:1
+2014-07-16T09:03:37.867-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:03:37.867-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:03:37.867-0700 [clientcursormon]  connections:1
+2014-07-16T09:08:37.926-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:08:37.926-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:08:37.926-0700 [clientcursormon]  connections:1
+2014-07-16T09:13:37.990-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:13:37.990-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:13:37.990-0700 [clientcursormon]  connections:1
+2014-07-16T09:18:38.046-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:18:38.046-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:18:38.046-0700 [clientcursormon]  connections:1
+2014-07-16T09:23:38.105-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:23:38.105-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:23:38.105-0700 [clientcursormon]  connections:1
+2014-07-16T09:28:38.164-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:28:38.164-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:28:38.164-0700 [clientcursormon]  connections:1
+2014-07-16T09:33:38.228-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:33:38.228-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:33:38.228-0700 [clientcursormon]  connections:1
+2014-07-16T09:38:38.283-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:38:38.283-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:38:38.283-0700 [clientcursormon]  connections:1
+2014-07-16T09:43:38.339-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T09:43:38.339-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T09:43:38.339-0700 [clientcursormon]  connections:1
+2014-07-16T10:47:53.001-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T10:47:53.001-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T10:47:53.001-0700 [clientcursormon]  connections:1
+2014-07-16T10:52:53.063-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T10:52:53.063-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T10:52:53.063-0700 [clientcursormon]  connections:1
+2014-07-16T10:57:53.130-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T10:57:53.131-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T10:57:53.131-0700 [clientcursormon]  connections:1
+2014-07-16T11:02:53.192-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T11:02:53.192-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T11:02:53.192-0700 [clientcursormon]  connections:1
+2014-07-16T11:07:53.253-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T11:07:53.253-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T11:07:53.253-0700 [clientcursormon]  connections:1
+2014-07-16T11:12:53.317-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T11:12:53.317-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T11:12:53.317-0700 [clientcursormon]  connections:1
+2014-07-16T11:17:53.377-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T11:17:53.377-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T11:17:53.377-0700 [clientcursormon]  connections:1
+2014-07-16T11:22:53.435-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T11:22:53.435-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T11:22:53.435-0700 [clientcursormon]  connections:1
+2014-07-16T11:27:53.495-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T11:27:53.495-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T11:27:53.495-0700 [clientcursormon]  connections:1
+2014-07-16T12:15:12.982-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T12:15:12.982-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T12:15:12.982-0700 [clientcursormon]  connections:1
+2014-07-16T12:20:13.046-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T12:20:13.046-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T12:20:13.046-0700 [clientcursormon]  connections:1
+2014-07-16T12:25:13.109-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T12:25:13.109-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T12:25:13.109-0700 [clientcursormon]  connections:1
+2014-07-16T12:30:13.163-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T12:30:13.163-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T12:30:13.163-0700 [clientcursormon]  connections:1
+2014-07-16T12:52:16.008-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T12:52:16.008-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T12:52:16.008-0700 [clientcursormon]  connections:1
+2014-07-16T12:57:16.063-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T12:57:16.063-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T12:57:16.063-0700 [clientcursormon]  connections:1
+2014-07-16T13:02:16.123-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:02:16.124-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:02:16.124-0700 [clientcursormon]  connections:1
+2014-07-16T13:07:16.179-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:07:16.179-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:07:16.179-0700 [clientcursormon]  connections:1
+2014-07-16T13:12:16.239-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:12:16.239-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:12:16.239-0700 [clientcursormon]  connections:1
+2014-07-16T13:17:16.302-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:17:16.302-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:17:16.302-0700 [clientcursormon]  connections:1
+2014-07-16T13:22:16.360-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:22:16.362-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:22:16.362-0700 [clientcursormon]  connections:1
+2014-07-16T13:27:16.427-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:27:16.427-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:27:16.427-0700 [clientcursormon]  connections:1
+2014-07-16T13:32:16.488-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:32:16.488-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:32:16.488-0700 [clientcursormon]  connections:1
+2014-07-16T13:37:16.548-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:37:16.549-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:37:16.549-0700 [clientcursormon]  connections:1
+2014-07-16T13:42:16.610-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:42:16.610-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:42:16.610-0700 [clientcursormon]  connections:1
+2014-07-16T13:47:16.669-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:47:16.669-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:47:16.669-0700 [clientcursormon]  connections:1
+2014-07-16T13:52:16.733-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:52:16.733-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:52:16.733-0700 [clientcursormon]  connections:1
+2014-07-16T13:57:16.790-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T13:57:16.790-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T13:57:16.790-0700 [clientcursormon]  connections:1
+2014-07-16T14:02:16.851-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:02:16.852-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:02:16.852-0700 [clientcursormon]  connections:1
+2014-07-16T14:21:15.988-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:21:15.988-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:21:15.988-0700 [clientcursormon]  connections:1
+2014-07-16T14:26:16.049-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:26:16.050-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:26:16.050-0700 [clientcursormon]  connections:1
+2014-07-16T14:31:16.104-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:31:16.104-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:31:16.104-0700 [clientcursormon]  connections:1
+2014-07-16T14:36:16.153-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:36:16.153-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:36:16.153-0700 [clientcursormon]  connections:1
+2014-07-16T14:41:16.205-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:41:16.205-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:41:16.205-0700 [clientcursormon]  connections:1
+2014-07-16T14:46:16.252-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:46:16.252-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:46:16.252-0700 [clientcursormon]  connections:1
+2014-07-16T14:51:16.304-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:51:16.304-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:51:16.304-0700 [clientcursormon]  connections:1
+2014-07-16T14:56:16.360-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T14:56:16.360-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T14:56:16.360-0700 [clientcursormon]  connections:1
+2014-07-16T15:01:16.413-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T15:01:16.413-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:01:16.413-0700 [clientcursormon]  connections:1
+2014-07-16T15:18:16.918-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T15:18:16.918-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:18:16.918-0700 [clientcursormon]  connections:1
+2014-07-16T15:23:16.979-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T15:23:16.979-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:23:16.979-0700 [clientcursormon]  connections:1
+2014-07-16T15:28:17.044-0700 [clientcursormon] mem (MB) res:3 virt:2813
+2014-07-16T15:28:17.046-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:28:17.046-0700 [clientcursormon]  connections:1
+2014-07-16T15:33:17.093-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T15:33:17.095-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:33:17.095-0700 [clientcursormon]  connections:1
+2014-07-16T15:38:17.149-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T15:38:17.151-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:38:17.151-0700 [clientcursormon]  connections:1
+2014-07-16T15:43:17.205-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T15:43:17.205-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:43:17.205-0700 [clientcursormon]  connections:1
+2014-07-16T15:48:17.259-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-16T15:48:17.259-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:48:17.260-0700 [clientcursormon]  connections:1
+2014-07-16T15:52:17.300-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T15:52:17.300-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:52:17.300-0700 [clientcursormon]  connections:1
+2014-07-16T15:57:17.355-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T15:57:17.357-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T15:57:17.357-0700 [clientcursormon]  connections:1
+2014-07-16T16:02:17.406-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:02:17.409-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:02:17.409-0700 [clientcursormon]  connections:1
+2014-07-16T16:07:17.457-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:07:17.457-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:07:17.457-0700 [clientcursormon]  connections:1
+2014-07-16T16:12:17.510-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:12:17.510-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:12:17.512-0700 [clientcursormon]  connections:1
+2014-07-16T16:17:17.563-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:17:17.565-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:17:17.565-0700 [clientcursormon]  connections:1
+2014-07-16T16:22:17.613-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:22:17.615-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:22:17.615-0700 [clientcursormon]  connections:1
+2014-07-16T16:27:17.669-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:27:17.671-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:27:17.672-0700 [clientcursormon]  connections:1
+2014-07-16T16:32:17.725-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:32:17.725-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:32:17.725-0700 [clientcursormon]  connections:1
+2014-07-16T16:37:17.788-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:37:17.788-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:37:17.788-0700 [clientcursormon]  connections:1
+2014-07-16T16:42:17.839-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:42:17.842-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:42:17.842-0700 [clientcursormon]  connections:1
+2014-07-16T16:47:17.896-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-16T16:47:17.897-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-16T16:47:17.897-0700 [clientcursormon]  connections:1
+2014-07-17T08:52:38.975-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T08:52:38.975-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T08:52:38.975-0700 [clientcursormon]  connections:1
+2014-07-17T08:57:39.031-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T08:57:39.031-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T08:57:39.031-0700 [clientcursormon]  connections:1
+2014-07-17T09:02:39.092-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T09:02:39.092-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T09:02:39.092-0700 [clientcursormon]  connections:1
+2014-07-17T09:07:39.149-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T09:07:39.149-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T09:07:39.151-0700 [clientcursormon]  connections:1
+2014-07-17T09:22:27.975-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T09:22:27.976-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T09:22:27.976-0700 [clientcursormon]  connections:1
+2014-07-17T09:27:28.036-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T09:27:28.037-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T09:27:28.037-0700 [clientcursormon]  connections:1
+2014-07-17T09:56:40.955-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T09:56:40.955-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T09:56:40.955-0700 [clientcursormon]  connections:1
+2014-07-17T10:02:24.994-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T10:02:24.994-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T10:02:24.994-0700 [clientcursormon]  connections:1
+2014-07-17T10:44:08.976-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T10:44:08.978-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T10:44:08.978-0700 [clientcursormon]  connections:1
+2014-07-17T10:49:09.035-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T10:49:09.037-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T10:49:09.037-0700 [clientcursormon]  connections:1
+2014-07-17T10:54:09.089-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T10:54:09.090-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T10:54:09.090-0700 [clientcursormon]  connections:1
+2014-07-17T10:59:09.142-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T10:59:09.143-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T10:59:09.143-0700 [clientcursormon]  connections:1
+2014-07-17T11:04:09.201-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:04:09.201-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:04:09.201-0700 [clientcursormon]  connections:1
+2014-07-17T11:09:09.258-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:09:09.258-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:09:09.258-0700 [clientcursormon]  connections:1
+2014-07-17T11:14:09.305-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:14:09.307-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:14:09.307-0700 [clientcursormon]  connections:1
+2014-07-17T11:19:09.366-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:19:09.366-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:19:09.366-0700 [clientcursormon]  connections:1
+2014-07-17T11:24:09.417-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:24:09.417-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:24:09.417-0700 [clientcursormon]  connections:1
+2014-07-17T11:29:09.473-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:29:09.475-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:29:09.475-0700 [clientcursormon]  connections:1
+2014-07-17T11:34:09.531-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:34:09.533-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:34:09.533-0700 [clientcursormon]  connections:1
+2014-07-17T11:39:09.581-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:39:09.582-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:39:09.582-0700 [clientcursormon]  connections:1
+2014-07-17T11:44:09.634-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:44:09.635-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:44:09.635-0700 [clientcursormon]  connections:1
+2014-07-17T11:49:09.685-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:49:09.685-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:49:09.685-0700 [clientcursormon]  connections:1
+2014-07-17T11:54:09.736-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:54:09.738-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:54:09.738-0700 [clientcursormon]  connections:1
+2014-07-17T11:59:09.789-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T11:59:09.790-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T11:59:09.790-0700 [clientcursormon]  connections:1
+2014-07-17T12:04:09.844-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:04:09.846-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:04:09.846-0700 [clientcursormon]  connections:1
+2014-07-17T12:09:09.901-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:09:09.902-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:09:09.902-0700 [clientcursormon]  connections:1
+2014-07-17T12:14:09.958-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:14:09.960-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:14:09.960-0700 [clientcursormon]  connections:1
+2014-07-17T12:19:10.016-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:19:10.017-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:19:10.018-0700 [clientcursormon]  connections:1
+2014-07-17T12:24:10.073-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:24:10.075-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:24:10.075-0700 [clientcursormon]  connections:1
+2014-07-17T12:29:10.121-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:29:10.121-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:29:10.121-0700 [clientcursormon]  connections:1
+2014-07-17T12:34:10.177-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:34:10.179-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:34:10.179-0700 [clientcursormon]  connections:1
+2014-07-17T12:39:10.239-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:39:10.242-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:39:10.242-0700 [clientcursormon]  connections:1
+2014-07-17T12:44:10.292-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:44:10.294-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:44:10.294-0700 [clientcursormon]  connections:1
+2014-07-17T12:49:10.349-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:49:10.349-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:49:10.349-0700 [clientcursormon]  connections:1
+2014-07-17T12:54:10.404-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:54:10.405-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:54:10.405-0700 [clientcursormon]  connections:1
+2014-07-17T12:59:10.459-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T12:59:10.459-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T12:59:10.460-0700 [clientcursormon]  connections:1
+2014-07-17T13:04:10.514-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:04:10.515-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:04:10.515-0700 [clientcursormon]  connections:1
+2014-07-17T13:09:10.565-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:09:10.565-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:09:10.565-0700 [clientcursormon]  connections:1
+2014-07-17T13:14:10.622-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:14:10.624-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:14:10.624-0700 [clientcursormon]  connections:1
+2014-07-17T13:19:10.674-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:19:10.676-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:19:10.676-0700 [clientcursormon]  connections:1
+2014-07-17T13:24:10.726-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:24:10.728-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:24:10.728-0700 [clientcursormon]  connections:1
+2014-07-17T13:29:10.783-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:29:10.784-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:29:10.784-0700 [clientcursormon]  connections:1
+2014-07-17T13:34:10.835-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:34:10.835-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:34:10.835-0700 [clientcursormon]  connections:1
+2014-07-17T13:39:10.891-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:39:10.891-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:39:10.892-0700 [clientcursormon]  connections:1
+2014-07-17T13:44:10.942-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:44:10.943-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:44:10.943-0700 [clientcursormon]  connections:1
+2014-07-17T13:49:10.993-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:49:10.993-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:49:10.993-0700 [clientcursormon]  connections:1
+2014-07-17T13:54:11.041-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:54:11.043-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:54:11.043-0700 [clientcursormon]  connections:1
+2014-07-17T13:59:11.098-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T13:59:11.099-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T13:59:11.099-0700 [clientcursormon]  connections:1
+2014-07-17T14:04:51.042-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:04:51.044-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:04:51.044-0700 [clientcursormon]  connections:1
+2014-07-17T14:09:51.104-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:09:51.106-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:09:51.106-0700 [clientcursormon]  connections:1
+2014-07-17T14:14:51.161-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:14:51.163-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:14:51.163-0700 [clientcursormon]  connections:1
+2014-07-17T14:19:51.220-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:19:51.222-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:19:51.222-0700 [clientcursormon]  connections:1
+2014-07-17T14:24:51.280-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:24:51.282-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:24:51.282-0700 [clientcursormon]  connections:1
+2014-07-17T14:29:51.338-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:29:51.340-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:29:51.340-0700 [clientcursormon]  connections:1
+2014-07-17T14:34:51.400-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:34:51.401-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:34:51.401-0700 [clientcursormon]  connections:1
+2014-07-17T14:40:17.999-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:40:18.001-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:40:18.001-0700 [clientcursormon]  connections:1
+2014-07-17T14:45:18.050-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:45:18.052-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:45:18.052-0700 [clientcursormon]  connections:1
+2014-07-17T14:50:18.109-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:50:18.109-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:50:18.109-0700 [clientcursormon]  connections:1
+2014-07-17T14:55:18.163-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T14:55:18.163-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T14:55:18.163-0700 [clientcursormon]  connections:1
+2014-07-17T15:00:18.219-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:00:18.220-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:00:18.221-0700 [clientcursormon]  connections:1
+2014-07-17T15:05:18.279-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:05:18.280-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:05:18.280-0700 [clientcursormon]  connections:1
+2014-07-17T15:10:18.332-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:10:18.334-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:10:18.334-0700 [clientcursormon]  connections:1
+2014-07-17T15:15:18.387-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:15:18.390-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:15:18.390-0700 [clientcursormon]  connections:1
+2014-07-17T15:20:18.446-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:20:18.448-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:20:18.448-0700 [clientcursormon]  connections:1
+2014-07-17T15:25:18.499-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:25:18.501-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:25:18.501-0700 [clientcursormon]  connections:1
+2014-07-17T15:30:18.554-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:30:18.555-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:30:18.555-0700 [clientcursormon]  connections:1
+2014-07-17T15:35:18.605-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:35:18.607-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:35:18.607-0700 [clientcursormon]  connections:1
+2014-07-17T15:40:18.679-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:40:18.682-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:40:18.682-0700 [clientcursormon]  connections:1
+2014-07-17T15:45:18.733-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:45:18.735-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:45:18.735-0700 [clientcursormon]  connections:1
+2014-07-17T15:50:18.789-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:50:18.791-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:50:18.791-0700 [clientcursormon]  connections:1
+2014-07-17T15:55:18.843-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T15:55:18.845-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T15:55:18.845-0700 [clientcursormon]  connections:1
+2014-07-17T16:00:18.902-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T16:00:18.904-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T16:00:18.904-0700 [clientcursormon]  connections:1
+2014-07-17T16:05:18.965-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T16:05:18.966-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T16:05:18.966-0700 [clientcursormon]  connections:1
+2014-07-17T16:10:19.016-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T16:10:19.017-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T16:10:19.017-0700 [clientcursormon]  connections:1
+2014-07-17T16:15:19.065-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T16:15:19.067-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T16:15:19.067-0700 [clientcursormon]  connections:1
+2014-07-17T16:20:19.118-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T16:20:19.119-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T16:20:19.120-0700 [clientcursormon]  connections:1
+2014-07-17T16:25:19.177-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-17T16:25:19.179-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-17T16:25:19.179-0700 [clientcursormon]  connections:1
+2014-07-18T09:51:11.003-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T09:51:11.003-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T09:51:11.003-0700 [clientcursormon]  connections:1
+2014-07-18T09:56:11.065-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-18T09:56:11.067-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T09:56:11.068-0700 [clientcursormon]  connections:1
+2014-07-18T09:57:11.077-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T09:57:11.077-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T09:57:11.077-0700 [clientcursormon]  connections:1
+2014-07-18T10:02:11.130-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:02:11.130-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:02:11.130-0700 [clientcursormon]  connections:1
+2014-07-18T10:07:11.186-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:07:11.186-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:07:11.186-0700 [clientcursormon]  connections:1
+2014-07-18T10:12:11.243-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:12:11.243-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:12:11.243-0700 [clientcursormon]  connections:1
+2014-07-18T10:17:11.295-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:17:11.295-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:17:11.297-0700 [clientcursormon]  connections:1
+2014-07-18T10:22:11.350-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:22:11.350-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:22:11.350-0700 [clientcursormon]  connections:1
+2014-07-18T10:27:11.399-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:27:11.399-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:27:11.399-0700 [clientcursormon]  connections:1
+2014-07-18T10:32:11.450-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:32:11.453-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:32:11.453-0700 [clientcursormon]  connections:1
+2014-07-18T10:37:11.508-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:37:11.510-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:37:11.510-0700 [clientcursormon]  connections:1
+2014-07-18T10:42:11.564-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:42:11.565-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:42:11.565-0700 [clientcursormon]  connections:1
+2014-07-18T10:47:11.628-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:47:11.629-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:47:11.629-0700 [clientcursormon]  connections:1
+2014-07-18T10:52:11.683-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:52:11.684-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:52:11.684-0700 [clientcursormon]  connections:1
+2014-07-18T10:57:11.734-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T10:57:11.735-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T10:57:11.736-0700 [clientcursormon]  connections:1
+2014-07-18T11:02:11.789-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:02:11.791-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:02:11.791-0700 [clientcursormon]  connections:1
+2014-07-18T11:07:11.838-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:07:11.839-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:07:11.839-0700 [clientcursormon]  connections:1
+2014-07-18T11:12:11.890-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:12:11.893-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:12:11.893-0700 [clientcursormon]  connections:1
+2014-07-18T11:17:11.950-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:17:11.951-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:17:11.951-0700 [clientcursormon]  connections:1
+2014-07-18T11:22:12.003-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:22:12.004-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:22:12.004-0700 [clientcursormon]  connections:1
+2014-07-18T11:27:12.059-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:27:12.060-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:27:12.060-0700 [clientcursormon]  connections:1
+2014-07-18T11:32:12.111-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:32:12.112-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:32:12.112-0700 [clientcursormon]  connections:1
+2014-07-18T11:37:12.166-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:37:12.167-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:37:12.168-0700 [clientcursormon]  connections:1
+2014-07-18T11:42:12.217-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:42:12.219-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:42:12.219-0700 [clientcursormon]  connections:1
+2014-07-18T11:47:12.272-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:47:12.272-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:47:12.272-0700 [clientcursormon]  connections:1
+2014-07-18T11:52:12.325-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:52:12.326-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:52:12.326-0700 [clientcursormon]  connections:1
+2014-07-18T11:57:12.381-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T11:57:12.381-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T11:57:12.381-0700 [clientcursormon]  connections:1
+2014-07-18T12:02:12.429-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:02:12.429-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:02:12.429-0700 [clientcursormon]  connections:1
+2014-07-18T12:07:12.484-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:07:12.484-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:07:12.484-0700 [clientcursormon]  connections:1
+2014-07-18T12:12:12.538-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:12:12.538-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:12:12.538-0700 [clientcursormon]  connections:1
+2014-07-18T12:17:12.587-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:17:12.587-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:17:12.589-0700 [clientcursormon]  connections:1
+2014-07-18T12:22:12.652-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:22:12.653-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:22:12.653-0700 [clientcursormon]  connections:1
+2014-07-18T12:27:12.705-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:27:12.707-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:27:12.707-0700 [clientcursormon]  connections:1
+2014-07-18T12:32:12.756-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:32:12.757-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:32:12.758-0700 [clientcursormon]  connections:1
+2014-07-18T12:37:12.815-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:37:12.816-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:37:12.816-0700 [clientcursormon]  connections:1
+2014-07-18T12:42:12.867-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:42:12.868-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:42:12.868-0700 [clientcursormon]  connections:1
+2014-07-18T12:47:12.921-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:47:12.921-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:47:12.921-0700 [clientcursormon]  connections:1
+2014-07-18T12:52:12.975-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:52:12.975-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:52:12.975-0700 [clientcursormon]  connections:1
+2014-07-18T12:57:13.031-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T12:57:13.031-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T12:57:13.032-0700 [clientcursormon]  connections:1
+2014-07-18T13:02:13.079-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:02:13.080-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:02:13.080-0700 [clientcursormon]  connections:1
+2014-07-18T13:07:13.129-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:07:13.129-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:07:13.129-0700 [clientcursormon]  connections:1
+2014-07-18T13:12:13.180-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:12:13.181-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:12:13.181-0700 [clientcursormon]  connections:1
+2014-07-18T13:17:13.235-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:17:13.235-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:17:13.235-0700 [clientcursormon]  connections:1
+2014-07-18T13:22:13.289-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:22:13.291-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:22:13.291-0700 [clientcursormon]  connections:1
+2014-07-18T13:27:13.347-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:27:13.348-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:27:13.348-0700 [clientcursormon]  connections:1
+2014-07-18T13:32:13.397-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:32:13.398-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:32:13.398-0700 [clientcursormon]  connections:1
+2014-07-18T13:37:31.026-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:37:31.028-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:37:31.028-0700 [clientcursormon]  connections:1
+2014-07-18T13:42:31.084-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:42:31.085-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:42:31.085-0700 [clientcursormon]  connections:1
+2014-07-18T13:47:31.142-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:47:31.142-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:47:31.142-0700 [clientcursormon]  connections:1
+2014-07-18T13:52:31.196-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:52:31.197-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:52:31.197-0700 [clientcursormon]  connections:1
+2014-07-18T13:57:31.252-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T13:57:31.253-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T13:57:31.253-0700 [clientcursormon]  connections:1
+2014-07-18T14:02:31.307-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:02:31.308-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:02:31.308-0700 [clientcursormon]  connections:1
+2014-07-18T14:07:31.359-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:07:31.359-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:07:31.359-0700 [clientcursormon]  connections:1
+2014-07-18T14:12:31.416-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:12:31.416-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:12:31.416-0700 [clientcursormon]  connections:1
+2014-07-18T14:17:31.477-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:17:31.477-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:17:31.477-0700 [clientcursormon]  connections:1
+2014-07-18T14:22:31.538-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:22:31.539-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:22:31.539-0700 [clientcursormon]  connections:1
+2014-07-18T14:27:31.598-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:27:31.600-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:27:31.600-0700 [clientcursormon]  connections:1
+2014-07-18T14:32:31.659-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:32:31.661-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:32:31.661-0700 [clientcursormon]  connections:1
+2014-07-18T14:37:31.716-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:37:31.717-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:37:31.717-0700 [clientcursormon]  connections:1
+2014-07-18T14:42:31.776-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:42:31.779-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:42:31.779-0700 [clientcursormon]  connections:1
+2014-07-18T14:47:31.833-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-18T14:47:31.835-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:47:31.835-0700 [clientcursormon]  connections:1
+2014-07-18T14:52:31.888-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-18T14:52:31.888-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:52:31.888-0700 [clientcursormon]  connections:1
+2014-07-18T14:55:31.919-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T14:55:31.919-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T14:55:31.921-0700 [clientcursormon]  connections:1
+2014-07-18T15:00:31.969-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T15:00:31.971-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T15:00:31.971-0700 [clientcursormon]  connections:1
+2014-07-18T15:43:42.982-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T15:43:42.982-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T15:43:42.982-0700 [clientcursormon]  connections:1
+2014-07-18T15:48:43.033-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T15:48:43.034-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T15:48:43.034-0700 [clientcursormon]  connections:1
+2014-07-18T15:53:43.085-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T15:53:43.085-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T15:53:43.085-0700 [clientcursormon]  connections:1
+2014-07-18T15:58:43.138-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T15:58:43.139-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T15:58:43.139-0700 [clientcursormon]  connections:1
+2014-07-18T16:03:43.192-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T16:03:43.194-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T16:03:43.194-0700 [clientcursormon]  connections:1
+2014-07-18T16:08:43.248-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T16:08:43.249-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T16:08:43.250-0700 [clientcursormon]  connections:1
+2014-07-18T16:13:43.302-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-18T16:13:43.304-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-18T16:13:43.304-0700 [clientcursormon]  connections:1
+2014-07-19T11:55:50.949-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-19T11:55:50.950-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T11:55:50.950-0700 [clientcursormon]  connections:1
+2014-07-19T12:00:51.017-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-19T12:00:51.017-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T12:00:51.017-0700 [clientcursormon]  connections:1
+2014-07-19T12:01:51.041-0700 [clientcursormon] mem (MB) res:2 virt:2813
+2014-07-19T12:01:51.042-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T12:01:51.042-0700 [clientcursormon]  connections:1
+2014-07-19T12:06:51.100-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-19T12:06:51.100-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T12:06:51.100-0700 [clientcursormon]  connections:1
+2014-07-19T12:11:51.151-0700 [clientcursormon] mem (MB) res:1 virt:2813
+2014-07-19T12:11:51.151-0700 [clientcursormon]  mapped (incl journal view):320
+2014-07-19T12:11:51.151-0700 [clientcursormon]  connections:1
+[debug] execute contextualize
+[debug] execute contextualize
+Jul 19, 2014 2:43:32 PM org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions
+INFO: Loading XML bean definitions from file [/Users/ra61859/InboundShipmentWorkspace/ISWorkspace/greenhouse/src/test/java/com/springsource/greenhouse/events/load/JdbcEventLoaderRepositoryTest-context.xml]
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+<https://api.github.com/organizations/4161866/repos?page=2>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last"
+<https://api.github.com/organizations/4161866/repos?page=3>; rel="next", <https://api.github.com/organizations/4161866/repos?page=3>; rel="last", <https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=1>; rel="prev"
+<https://api.github.com/organizations/4161866/repos?page=1>; rel="first", <https://api.github.com/organizations/4161866/repos?page=2>; rel="prev"
+Downloading https://github.com/spring-guides/gs-messaging-jms/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/GettingStartedGuide/gs-messaging-jms
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Downloading https://github.com/spring-guides/gs-messaging-stomp-websocket/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/GettingStartedGuide/gs-messaging-stomp-websocket
+Downloading https://github.com/spring-guides/gs-messaging-stomp-msgsjs/archive/master.zip to /Users/ra61859/InboundShipmentWorkspace/ISWorkspace/.metadata/.plugins/org.springframework.ide.eclipse.wizard/GettingStartedGuide/gs-messaging-stomp-msgsjs
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+[debug] execute contextualize
+Jul 22, 2014 10:35:13 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 22, 2014 10:40:14 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 22, 2014 10:45:15 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 22, 2014 10:50:17 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 22, 2014 10:55:18 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 22, 2014 11:00:19 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
+Jul 22, 2014 11:05:20 AM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Cookie rejected: "[version: 0][name: DSSIGNIN][value: url_7][domain: 10.107.250.10][path: /dana-na/][expiry: Wed Dec 30 16:00:00 PST 2037]". Illegal path attribute "/dana-na/". Path of origin: "/hotel/"
